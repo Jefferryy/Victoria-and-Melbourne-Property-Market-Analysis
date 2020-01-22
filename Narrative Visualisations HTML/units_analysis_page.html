@@ -1,0 +1,115 @@
+<!-- ==================================================== -->
+<!--Name: Jeffery Chieh Liu-->
+<!--Program Title: Victoria and Melbourne Property Market Analysis Narrative Visualisation-->
+<!--Current HTML Page: units_analysis_page.html-->
+<!-- ===================================================== -->
+
+
+
+<html>
+    <head>
+        <style>
+            ul#navigation {
+                list-style-type: none;
+                margin: 0;
+                padding: 0;
+                overflow: hidden;
+                background-color: #333; 
+            }
+            
+            li {
+                float: left;
+            }
+            
+            li a {
+                display: block;
+                color: white;
+                text-align: center;
+                padding: 14px 16px; 
+                text-decoration: none; 
+            }
+            
+            li a:hover{
+                background-color: #111;
+            }
+            
+            .active {
+                background-color: #4CAF50;
+            }
+            
+            #nav{
+                width: 370px;
+                float: right;
+            }
+            
+            #main{
+                width: 600px;
+                float: left;
+            }
+        
+        </style>
+    </head>
+    
+    
+    <body>
+        
+        
+        
+        <ul id="navigation">
+            <li><a href="../index.html">Home</a></li>
+            <li><a href="./vic_melb_properties_sold_map.html">Map</a></li>
+            <li><a href="./houses_analysis_page.html">Houses Analysis</a></li>
+            <li><a href="./houses_median_vs_mean_page.html">Houses Median vs Mean</a></li>
+            <li><a class ="active" href="./units_analysis_page.html">Units Analysis</a></li>
+            <li><a href="./units_median_vs_mean_page.html">Units Median vs Mean</a></li>
+            <li><a href="./property_methods_page.html">Top Agents Methods</a></li>
+            <li><a href="./filtered_sankey_vis.html">Prices Analysis</a></li>
+            <li><a href="./conclusion_summary.html">Conclusion and Summary</a></li>
+        </ul>
+        
+        <form>
+            <input type="button" value="Houses Median vs Mean" onclick="location.href='./houses_median_vs_mean_page.html'" style="position: relative; top:19px;">
+        </form>
+        
+        
+        <form style="float: right;">
+            <input type="button" value="Units Median vs Mean" onclick="location.href='./units_median_vs_mean_page.html'" style="position: relative; top: -17px;">
+        </form>
+        
+        
+        
+        <div style="position:relative; top: 30; margin-left: 110; margin-right: 170;">
+            <h1 style="text-align: center;">Analyisng Victoria and Melbourne Number of Units Sold - 1987 to 2018 Segregated by Regions</h1>
+        </div>
+        
+        <div id="content">
+            <div id="nav" style="position:relative; left:-80; top:20;">
+                <h3 style="position: relative; left: 10;">Highlights</h3>
+                <ul >
+                    <li style="position:relative; left:-3;">2014 had the most number of Units/Apartments sold</li>
+                    <li style="position:relative; left:-3;">There were 118301 Units/Apartments sold throughout 2014</li>
+                    <li style="position:relative; left:-3;">Melbourne City and Country Victoria had the lowest number of house sold</li>
+                </ul>
+            </div>
+            
+            <div id="main" style="position:relative; left:100; top:23;">
+                <h3 style="position: relative; left: 30;">Victoria and Melbournes number of Units/Apartments sold</h3>
+                <p style="position:relative; left: 30">In terms of residential property statistics for Victoria and Melbourne from 1987 - 2018 the following interactive stacked bar graph visualises the number Units/Apartments sold throughout this period. Additionally, the number of Units/Apartments sold are segregated by region, with Melbourne City and Country Victoria having the least number of houses sold every year. However, this trend in the number of Units/Apartments sold across Melbourne City is expected, as land is scarcer, hence, the number of  developments and number of Units/Apartments sold would proportionally would be significantly lower relative to suburban areas. Additionally, the low number of houses sold across the countryside regions also isn't alarming, as contrary to land scarcity within Melbourne City, there's an abundance of land throughout the countryside with significantly lower demand. Hence, there's minimal development plans for rapid Unit/Apartments expansion and construction.</p>
+                
+                <h3 style="position:relative; left:30">Interactions</h3>
+                <p> 
+                    <li style="position:relative; left:50">Hover over each bar to visualise the number of properties sold across each region</li>
+                    <li style="position:relative; left:50">Click on the legend for the desired region to filter respectively for the selected region</li>
+                    <li style="position:relative; left:50">Re-click on the selected region to deselect and return to absolute view</li>
+                </p>
+            </div>
+            
+
+        
+        <div>
+            <iframe src="./melb_units_interactive_legend_stacked_bar.html" height="520" width="1050" scrolling="no"; style="position:relative; -webkit-transform:scale(1); left: 183; top:30;border: none"></iframe>
+        </div>
+        
+    </body>
+    
+</html>

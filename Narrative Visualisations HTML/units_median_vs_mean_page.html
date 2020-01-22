@@ -1,0 +1,118 @@
+<!-- ==================================================== -->
+<!--Name: Jeffery Chieh Liu-->
+<!--Program Title: Victoria and Melbourne Property Market Analysis Narrative Visualisation-->
+<!--Current HTML Page: units_median_vs_mean_page.html-->
+<!-- ===================================================== -->
+
+
+
+<html>
+    <head>
+        <style>
+            ul#navigation {
+                list-style-type: none;
+                margin: 0;
+                padding: 0;
+                overflow: hidden;
+                background-color: #333; 
+            }
+            
+            li {
+                float: left;
+            }
+            
+            li a {
+                display: block;
+                color: white;
+                text-align: center;
+                padding: 14px 16px; 
+                text-decoration: none; 
+            }
+            
+            li a:hover{
+                background-color: #111;
+            }
+            
+            .active {
+                background-color: #4CAF50;
+            }
+            
+            #nav {
+                width: 370px;
+                float: right;
+            }
+            
+            #main {
+                width: 600px;
+                float: left;
+            }
+        
+        </style>
+    </head>
+    
+    
+    <body>
+        
+        <ul id="navigation">       
+            <li><a href="../index.html">Home</a></li>
+            <li><a href="./vic_melb_properties_sold_map.html">Map</a></li>
+            <li><a href="./houses_analysis_page.html">Houses Analysis</a></li>
+            <li><a href="./houses_median_vs_mean_page.html">Houses Median vs Mean</a></li>
+            <li><a href="./units_analysis_page.html">Units Analysis</a></li>
+            <li><a class ="active" href="./units_median_vs_mean_page.html">Units Median vs Mean</a></li>
+            <li><a href="./property_methods_page.html">Top Agents Methods</a></li>
+            <li><a href="./filtered_sankey_vis.html">Prices Analysis</a></li>
+            <li><a href="./conclusion_summary.html">Conclusion and Summary</a></li>
+        </ul>
+        
+        
+        <form>
+            <input type="button" value="Units Analysis" onclick="location.href='./units_analysis_page.html'" style="position: relative; top:19px;">
+        </form>
+        
+        
+        <form style="float: right;">
+            <input type="button" value="Top Agents Methods" onclick="location.href='./property_methods_page.html'" style="position:relative; top: -17px;">
+        </form>
+        
+        
+                
+        <div style="position:relative; top: 30; margin-left: 110; margin-right: 170;">
+            <h1 style="text-align: center;">Analyisng Victoria and Melbourne Median Units/Apartments Price - 1987 to 2018 Segregated by Regions</h1>
+        </div>
+        
+        <div id="content">
+            <div id="nav" style="position:relative; left:-80; top:20;">
+                <h3 style="position: relative; left: 10;">Highlights</h3>
+                <ul >
+                    <li style="position:relative; left:-3;">Melbourne City had the highest rise in Median Units/Apartments Price</li>
+                    <li style="position:relative; left:-3;">Melbourne City Median Units/Apartments Price rose by 354% since 1987</li>
+                    <li style="position:relative; left:-3;">Median is a more robust measure for price</li>
+                </ul>
+            </div>
+            
+            <div id="main" style="position:relative; left:100; top:23;">
+                <h3 style="position: relative; left: 30;">Victoria and Melbourne Median Units/Apartments Price Analysis</h3>
+                <p style="position:relative; left: 30">In terms of residential property statistics for Victoria and Melbourne from 1987 - 2018 whilst Melbourne City had the lowest number of units/apartments sold across every year from 1987 - 2018. However, it had the highest Median Units/Apartments Price growth at 354% from 1987. Thus, this exponential rise in price is primarly attributed to the scarcity in land availability coupled with rising demand for units/apartments.</p>
+                
+                <h3 style="position:relative; left:30">Interactions</h3>
+                <p> 
+                    <li style="position:relative; left:50">Hover over each graph to visualise the median Units/Apartments price segregated by region</li>
+                </p>
+            </div>
+        </div>
+        
+        
+        
+        
+        <div>
+            <iframe src="./multiline_units_graph.html" height="470" width="670" scrolling="no"; style="position:relative; -webkit-transform:scale(1); left: -580; top:167;border: none"></iframe>
+        </div>
+        
+           <div>
+            <iframe src="./multiline_units_mean_price_graph.html" height="470" width="670" scrolling="no"; style="position:relative; -webkit-transform:scale(1); left: 695; top:-300; border: none"></iframe>
+        </div>
+        
+    </body>
+    
+</html>

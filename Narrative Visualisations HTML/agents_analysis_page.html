@@ -1,0 +1,68 @@
+<!-- ==================================================== -->
+<!--Name: Jeffery Chieh Liu-->
+<!--Program Title: Victoria and Melbourne Property Market Analysis Narrative Visualisation-->
+<!--Current HTML Page: agent_analysis_page.html-->
+<!-- ===================================================== -->
+
+
+<html>
+    <head>
+        <style>
+            ul {
+                list-style-type: none;
+                margin: 0;
+                padding: 0;
+                overflow: hidden;
+                background-color: #333; 
+            }
+            
+            li {
+                float: left;
+            }
+            
+            li a {
+                display: block;
+                color: white;
+                text-align: center;
+                padding: 14px 16px; 
+                text-decoration: none; 
+            }
+            
+            li a:hover{
+                background-color: #111;
+            }
+            
+            .active {
+                background-color: #4CAF50;
+            }
+        
+        </style>
+    </head>
+    
+    
+    <body>
+        
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="property_map.html">Map</a></li>
+            <li><a href="*">Home</a></li>
+            <li><a href="sankey.html">Agents Analysis</a></li>
+        </ul>
+        
+        
+        <form>
+            <input type="button" value="Conclusion & Summary" onclick="location.href='./conclusion_summary.html'" style="position: relative; top:33px;">
+        </form>
+        
+        
+        <form style="float: right;">
+            <input type="button" value="Conclusion & Summary" onclick="location.href='./conclusion_summary.html'">
+        </form>
+        
+        <div>
+            <iframe src="./sankey.html" height="13000" width="1230" scrolling="yes"; style="position:relative; -webkit-transform:scale(1); left: -7; top:150;border: none;"></iframe>
+        </div>
+        
+    </body>
+    
+</html>

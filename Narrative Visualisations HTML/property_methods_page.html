@@ -1,0 +1,124 @@
+<!-- ==================================================== -->
+<!--Name: Jeffery Chieh Liu-->
+<!--Program Title: Victoria and Melbourne Property Market Analysis Narrative Visualisation-->
+<!--Current HTML Page: property_methods_page.html-->
+<!-- ===================================================== -->
+
+
+<html>
+    <head>
+        <style>
+            ul#navigation {
+                list-style-type: none;
+                margin: 0;
+                padding: 0;
+                overflow: hidden;
+                background-color: #333; 
+            }
+            
+            li {
+                float: left;
+            }
+            
+            li a {
+                display: block;
+                color: white;
+                text-align: center;
+                padding: 14px 16px; 
+                text-decoration: none; 
+            }
+            
+            li a:hover{
+                background-color: #111;
+            }
+            
+            .active {
+                background-color: #4CAF50;
+            }
+            
+            #nav {
+                width: 370px;
+                float: right;
+            }
+            
+            #main {
+                width: 600px;
+                float: left;
+            }
+        
+        </style>
+    </head>
+    
+    
+    <body>
+        
+        <ul id="navigation">       
+            <li><a href="../index.html">Home</a></li>
+            <li><a href="./vic_melb_properties_sold_map.html">Map</a></li>
+            <li><a href="./houses_analysis_page.html">Houses Analysis</a></li>
+            <li><a href="./houses_median_vs_mean_page.html">Houses Median vs Mean</a></li>
+            <li><a href="./units_analysis_page.html">Units Analysis</a></li>
+            <li><a href="./units_median_vs_mean_page.html">Units Median vs Mean</a></li>
+            <li><a class="active" href="./property_methods_page.html">Top Agents Methods</a></li>
+            <li><a href="./filtered_sankey_vis.html">Prices Analysis</a></li>
+            <li><a href="./conclusion_summary.html">Conclusion and Summary</a></li>
+        </ul>
+        
+        
+        <form>
+            <input type="button" value="Units Median vs Mean" onclick="location.href='./units_median_vs_mean_page.html'" style="position: relative; top:19px;">
+        </form>
+        
+        
+        <form style="float: right;">
+            <input type="button" value="Price Analysis" onclick="location.href='./filtered_sankey_vis.html'" style="position:relative; top: -17px;">
+        </form>
+        
+        <div style="position:relative; top: 30; margin-left: 110; margin-right: 170;">
+            <h1 style="text-align: center;">Analyisng top 11 real estate agents and the property methods used across Victoria/Melbourne</h1>
+        </div>
+        
+        <div id="content">
+            <div id="nav" style="position:relative; left:-80; top:20;">
+                <h3 style="position: relative; left: 10;">Highlights</h3>
+                <ul >
+                    <li style="position:relative; left:-3;">Property Passed in (PI) is the most popular property selling method</li>
+                    <li style="position:relative; left:-3;">$12,950,000 AUD made from PI method from the 11 top real estate agents</li>
+                    <li style="position:relative; left:-3;">RT Real Estate Agent made $7,000,000+ AUD across 2016 - 2018</li>
+                </ul>
+            </div>
+            
+            <div id="main" style="position:relative; left:100; top:23;">
+                <h3 style="position: relative; left: 30;">Analysing top 11 real estate agents and the method used to sell properties across Victoria/Melbourne</h3>
+                <p style="position:relative; left: 30">Across 2016 - 2018 there a total of 476 active real estate agents who sold a combined total of 48,433 propeties worth over $8 billion AUD in total revnue. The current top performing 11 real estate agents were selected to provide a holistic understanding and overview regarding the methods which were used to sell the properties and subsequently the returns associated with each method. </p>
+                
+                
+                <p style="position:relative; left: 30"> 
+                    The five methods utilisied each respectively are denoted as:
+                    <li style="position:relative; left:50; right-margin: ;">PI - property passed in</li><br>
+                    <li style="position:relative; left:50; right-margin: 0;">SA - sold after auction</li><br>
+                    <li style="position:relative; left:50; right-margin: 190;">S - property sold</li><br>
+                    <li style="position:relative; left:50">VB - vendor bid</li><br>
+                    <li style="position:relative; left:50">SP - property sold prior</li><br>
+                </p>
+                      
+        
+                
+                <h3 style="position:relative; left:30">Interactions</h3>
+                <p> 
+                    <li style="position:relative; left:50">Hover over connections to visualise method used and median amount (AUD) earned</li>
+                    <li style= "position:relative; left:50">Each source/target tile blocks resepectively can be dragged and moved up/down</li>
+                </p>
+            </div>
+        </div>
+        
+        
+        
+        
+        <div>
+            <iframe src="./sankey_agent_method_vis.html" height="790" width="930" scrolling="no"; style="position:relative; -webkit-transform:scale(1); left: 160; top: -55;border: none;"></iframe>
+        </div>
+        
+    </body>
+    
+</html>

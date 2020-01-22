@@ -1,0 +1,4456 @@
+source,target,value
+Nelson,Airport West,640000
+Barry,Albion,570000
+Greg,Altona North,900000
+Fletchers,Balwyn North,1275000
+Fletchers,Bayswater,640000
+hockingstuart,Bentleigh,1045000
+Buxton,Bentleigh East,1220000
+Barry,Briar Hill,840000
+RT,Brighton,2650000
+Chisholm,Brighton,380000
+Buxton,Brighton East,1731000
+Barry,Broadmeadows,465000
+YPA,Broadmeadows,518500
+Barry,Burnside Heights,535000
+YPA,Cairnlea,630000
+Noel,Camberwell,677000
+Bekdon,Camberwell,1320000
+Nelson,Canterbury,816000
+Woodards,Carlton,350000
+Chisholm,Cheltenham,950000
+Jellis,Coburg,900000
+Melbourne,Coburg,922000
+RE,Craigieburn,665000
+RE,Craigieburn,515500
+LJ,Craigieburn,660000
+Hoskins,Croydon,932000
+McGrath,Croydon,570000
+Barry,Dandenong North,627000
+Mason,Diamond Creek,621000
+Barry,Doncaster East,1856000
+Ray,Donvale,2705000
+Buckingham,Doreen,530500
+Barry,Eltham,805000
+Iconek,Epping,940000
+hockingstuart,Epping,437000
+Nelson,Essendon,291000
+Brad,Essendon West,750000
+Nelson,Essendon West,2200000
+Nelson,Fitzroy North,1350000
+Jellis,Fitzroy North,1852000
+Burnham,Footscray,170000
+Ray,Frankston North,611000
+hockingstuart,Frankston South,755000
+Raine,Gisborne,521000
+Thomson,Glen Iris,500000
+Jellis,Glenroy,525000
+Darren,Greensborough,695000
+Chisholm,Hampton,1210000
+Jellis,Hawthorn,1000000
+Jellis,Hawthorn,2900000
+Jellis,Hawthorn,450000
+McGrath,Healesville,650000
+William,Heidelberg West,726500
+Hodges,Highett,645000
+YPA,Hillside,650500
+Ray,Huntingdale,750000
+YPA,Jacana,650000
+YPA,Jacana,390000
+Brad,Keilor Downs,735000
+Whiting,Keilor East,520000
+Edward,Kensington,967000
+Edward,Kensington,535000
+Jellis,Kew East,862000
+Barry,Keysborough,761000
+YPA,Kings Park,530000
+Ray,Lalor,750000
+McGrath,Maidstone,280000
+Rendina,Maidstone,895000
+Raine,Melton,320000
+PRDNationwide,Melton,480000
+Harcourts,Mernda,670000
+Love,Mill Park,460000
+Noel,Mitcham,950000
+Noel,Mitcham,970000
+Ray,Montmorency,655000
+McGrath,Mount Waverley,1205000
+Ray,Mount Waverley,1385000
+Fletchers,Mount Waverley,2000000
+Williams,Newport,710000
+Fletchers,Nunawading,1100000
+Nelson,Oak Park,610000
+Ray,Ormond,454000
+Gary,Ormond,562000
+Obrien,Parkdale,1000000
+Jellis,Pascoe Vale,1501000
+Brad,Pascoe Vale,780000
+Reliance,Point Cook,660000
+Lucas,Port Melbourne,2450000
+RW,Reservoir,840000
+Nelson,Reservoir,668500
+Biggin,Richmond,890500
+Harcourts,Rowville,870000
+hockingstuart,Sandringham,643500
+O'Brien,Seaford,572000
+Village,Seddon,850000
+Millership,South Morang,600000
+iSell,Springvale,752500
+Bells,St Albans,565000
+YPA,St Albans,610000
+Gary,St Kilda,350000
+hockingstuart,St Kilda,525000
+Woodards,St Kilda,517500
+Rounds,St Kilda,365000
+Raine,Sunbury,580000
+Raine,Sunbury,420000
+Jellis,Surrey Hills,2100000
+Purplebricks,Tarneit,526000
+YPA,Taylors Hill,605500
+hockingstuart,Templestowe Lower,1705000
+Jellis,Thornbury,2070000
+Miles,Viewbank,905000
+Ray,Werribee,510000
+Jas,West Footscray,845000
+hockingstuart,Wyndham Vale,480000
+Moonee,Avondale Heights,730000
+Barry,Bundoora,830000
+Prof.,Caroline Springs,450000
+LJ,Craigieburn,560000
+Raine,Craigieburn,511500
+McGrath,Croydon,1060000
+HAR,Doreen,477000
+Eview,Emerald,462000
+Harcourts,Forest Hill,1120000
+Ash,Frankston,697250
+O'Brien,Frankston,561000
+Eview,Glenroy,685000
+Purplebricks,Heathmont,1175000
+Buxton,Highett,1410000
+hockingstuart,Melton South,410000
+Thomson,Mentone,1120000
+Buxton,Oakleigh,1455000
+LJ,Point Cook,587500
+Noel,Rowville,930000
+Sweeney,Seddon,807500
+hockingstuart/Biggin,Yarraville,755000
+Nelson,Airport West,975000
+Nelson,Airport West,891000
+hockingstuart,Altona North,700000
+Barry,Ardeer,624000
+Nelson,Ascot Vale,1050000
+Jellis,Ashburton,2850500
+Buxton,Aspendale,1095000
+hockingstuart,Balwyn,2800000
+Fletchers,Balwyn,2360000
+Bekdon,Balwyn North,1190000
+Fletchers,Balwyn North,2255000
+Noel,Balwyn North,1905000
+Chisholm,Beaumaris,1820000
+Bayside,Beaumaris,1645000
+McGrath,Beaumaris,1880000
+Buxton,Bentleigh,1350000
+hockingstuart,Bentleigh,1300000
+Jellis,Bentleigh East,1282000
+Buxton,Bentleigh East,1180000
+Jellis,Bentleigh East,1669000
+Buxton,Bentleigh East,1146000
+hockingstuart,Black Rock,1980000
+Jellis,Blackburn South,1400000
+Buxton,Box Hill,2128888
+Bells,Braybrook,801500
+Marshall,Brighton,1925000
+Jellis,Brighton,1826000
+Marshall,Brighton,1250000
+Nick,Brighton,2300000
+Marshall,Brighton East,1840000
+Marshall,Brighton East,2070000
+YPA,Broadmeadows,407500
+@Realty,Broadmeadows,560000
+Nelson,Brunswick,1500000
+Jellis,Brunswick,1160000
+Nelson,Brunswick,1661000
+Alexkarbon,Brunswick West,1250000
+Nelson,Brunswick West,1345000
+Jellis,Bulleen,1310000
+Buxton,Burwood,1461000
+Buxton,Burwood,1388000
+hockingstuart,Burwood East,1177000
+Jellis,Camberwell,2175000
+Noel,Camberwell,2200000
+Marshall,Camberwell,2175000
+Woodards,Carlton North,1065000
+Harcourts,Carrum Downs,562500
+Munn,Carrum Downs,510000
+Harcourts,Carrum Downs,550000
+Gary,Caulfield South,1530000
+Gary,Caulfield South,1101000
+McGrath,Chadstone,1300000
+Buxton,Cheltenham,875000
+Barry,Coburg,857000
+Barry,Coolaroo,550000
+Barry,Craigieburn,530000
+Stockdale,Craigieburn,540000
+Barry,Craigieburn,619500
+McGrath,Croydon,1220000
+hockingstuart,Croydon,676000
+hockingstuart,Dallas,434000
+Harcourts,Dandenong North,690000
+Ray,Dandenong North,850000
+Stockdale,Deer Park,545000
+Morrison,Diamond Creek,1100000
+Buxton,Dingley Village,883500
+Ray,Dingley Village,900000
+Buxton,Dingley Village,870000
+Buxton,Dingley Village,880000
+Jellis,Doncaster East,1610000
+Barry,Doreen,537000
+Barry,Doreen,530000
+Ray,Doreen,970000
+Gary,Elsternwick,2200000
+Biggin,Elsternwick,2100000
+Biggin,Elsternwick,2235000
+Marshall,Elwood,1920000
+Chisholm,Elwood,2450000
+REMAX,Endeavour Hills,1090000
+hockingstuart,Epping,600000
+HAR,Epping,670000
+Nelson,Essendon,1725000
+Nelson,Essendon,1556000
+Jellis,Fawkner,750000
+Harcourts,Fawkner,740000
+Brad,Fawkner,600000
+Jellis,Fitzroy North,1780000
+Nelson,Fitzroy North,1850000
+RT,Gisborne,940000
+Stockdale,Glenroy,772000
+Darren,Greensborough,810000
+Jellis,Greensborough,890000
+Morrison,Greensborough,968000
+Barry,Greenvale,640000
+Stockdale,Hadfield,787000
+Jellis,Hawthorn,2350000
+Barry,Heathmont,1540000
+Barry,Heathmont,1160000
+Prof.,Hillside,740000
+Commercial,Hoppers Crossing,620000
+Ray,Hoppers Crossing,691000
+Greg,Hoppers Crossing,630000
+PSP,Hoppers Crossing,531000
+hockingstuart,Hoppers Crossing,600500
+Miles,Ivanhoe,1950000
+Nelson,Ivanhoe,2579500
+Miles,Ivanhoe East,1930000
+Stockdale,Jacana,600000
+Brad,Kealba,800000
+Nelson,Keilor East,1011000
+Nelson,Keilor East,1070000
+Nelson,Kensington,1390000
+Marshall,Kew,2280000
+Marshall,Kew,2695000
+FN,Kurunjang,565000
+O'Brien,Langwarrin,690000
+Morrison,Lower Plenty,857500
+Morrison,Lower Plenty,530000
+Marshall,Malvern,3800000
+Jellis,Malvern East,1400000
+RT,Malvern East,2260000
+Marshall,Malvern East,1455000
+Marshall,Malvern East,3680000
+Jellis,Malvern East,2325000
+Jellis,Malvern East,700000
+Abercromby's,Malvern East,2100000
+Maitland,Mentone,1270000
+Stockdale,Mernda,606000
+Marshall,Middle Park,3150000
+HAR,Mill Park,530500
+HAR,Mill Park,722000
+Ray,Mill Park,615000
+Fletchers,Mont Albert,2320000
+Nelson,Moonee Ponds,1210000
+Jellis,Moonee Ponds,2025000
+Nelson,Moonee Ponds,1250000
+Fletchers,Mooroolbark,620000
+Buxton,Mordialloc,1300000
+Win,Mulgrave,880000
+Sweeney,Newport,1465000
+Williams,Newport,1420000
+Barry,Niddrie,1275000
+Nelson,Northcote,1680000
+Barry,Nunawading,836000
+Buxton,Oakleigh,1546000
+Hodges,Ormond,1900000
+Nelson,Pascoe Vale,810000
+McGrath,Pascoe Vale,1170000
+Point,Point Cook,715000
+Ray,Point Cook,656500
+hockingstuart,Prahran,1646000
+Jellis,Prahran,2610000
+Nelson,Preston,1265000
+Nelson,Preston,1060000
+Barry,Preston,650000
+Jellis,Preston,860000
+Nelson,Reservoir,980000
+Woodards,Reservoir,990000
+Love,Reservoir,610000
+Real,Ringwood East,902000
+Fletchers,Ringwood North,980000
+Miles,Rosanna,1400000
+Sweeney,Seddon,1067000
+Greg,South Melbourne,1450000
+HAR,South Morang,730000
+HAR,South Morang,920000
+Kay,South Yarra,2910000
+McDonald,Strathmore,1500000
+Rounds,Sunbury,475000
+Raine,Sunbury,469000
+YPA,Sunbury,391000
+YPA,Sunbury,725000
+Douglas,Sunshine,856000
+Douglas,Sunshine North,821000
+Douglas,Sunshine North,870500
+Barry,Taylors Lakes,742000
+Brad,Taylors Lakes,1136000
+Jellis,Templestowe,2008000
+Barry,Templestowe,1050000
+Barry,Templestowe,1475000
+Jellis,Templestowe,2102000
+Barry,Templestowe Lower,1250000
+Barry,Templestowe Lower,1155000
+McGrath,Thornbury,990000
+McGrath,Thornbury,1140000
+McGrath,Thornbury,1192000
+LLC,Wantirna,1008000
+Barry,Warrandyte,1231000
+Jellis,Watsonia North,952000
+Barry,Werribee,470000
+YPA,Werribee,545000
+Greg,Werribee,454000
+Barry,Wheelers Hill,2100000
+Williams,Williamstown,1290000
+Jas,Williamstown,2720000
+Greg,Williamstown,1295000
+Sweeney,Williamstown,980000
+Sweeney,Williamstown,1075000
+Greg,Williamstown,2400000
+Gary,Windsor,1350000
+hockingstuart,Wollert,745000
+hockingstuart,Wollert,850000
+Jas,Yarraville,2185000
+Village,Yarraville,1850000
+Barry,Aberfeldie,507000
+Greg,Albert Park,2500000
+hockingstuart,Albion,787000
+Kay,Alphington,2220000
+Marshall,Armadale,2385000
+Biggin,Ascot Vale,1500000
+hockingstuart,Ashburton,1655000
+Jellis,Ashburton,2405000
+Noel,Bayswater,930000
+Biggin,Bayswater,700000
+Ray,Bayswater,860000
+Hodges,Beaumaris,1470000
+Buxton,Bentleigh,1200000
+hockingstuart,Bentleigh East,1620000
+Buxton,Bentleigh East,1580000
+Jellis,Blackburn,1695000
+Ray,Bonbeach,836000
+Appleby,Boronia,780000
+Barry,Boronia,783000
+Morrison,Briar Hill,637000
+Biggin,Brighton,1175000
+RT,Brighton,1935000
+Hodges,Brighton East,2000000
+Nelson,Brunswick,1435000
+Nelson,Brunswick,1315000
+Nelson,Brunswick,700000
+Nelson,Brunswick,920000
+Jellis,Brunswick,765000
+Woodards,Brunswick,1400000
+Nelson,Brunswick East,1105000
+Barry,Burwood East,1032000
+Sweeney,Cairnlea,821000
+Fletchers,Canterbury,850000
+hockingstuart,Carnegie,1570000
+Woodards,Carnegie,1275000
+Gary,Carnegie,1435000
+Barry,Caroline Springs,600000
+Buxton,Carrum,529000
+Buxton,Carrum,845000
+McGrath,Caulfield,650000
+hockingstuart,Caulfield North,350000
+Woodards,Caulfield North,665000
+Buxton,Chadstone,674000
+Ray,Chelsea,840000
+Ray,Cheltenham,745000
+O'Brien,Cheltenham,1240000
+C21,Cheltenham,850000
+Buxton,Clayton,1300000
+Nelson,Coburg,690000
+Raine,Coburg,1600000
+Brad,Coburg North,690000
+Jellis,Collingwood,1025000
+Ray,Craigieburn,667000
+Ray,Dandenong,678000
+C21,Dandenong North,595000
+Barry,Dandenong North,305000
+Buxton,Dingley Village,816000
+Barry,Doncaster,2600000
+Woodards,Doncaster,1360000
+Barry,Doncaster,1600000
+Jellis,Doncaster East,1662000
+O'Brien,Doveton,545000
+Nelson,Eaglemont,750000
+Gary,Elsternwick,975000
+McGrath,Elwood,480000
+Chisholm,Elwood,696750
+Chisholm,Elwood,420000
+Chisholm,Elwood,695500
+R&H,Epping,540000
+Harcourts,Epping,620000
+Nelson,Essendon,1025000
+Rendina,Essendon,1320000
+Brad,Essendon,2210000
+Nelson,Fawkner,700000
+Ray,Fawkner,712000
+hockingstuart,Fawkner,775000
+O'Brien,Frankston,700000
+Ray,Frankston North,452000
+J,Glen Iris,1890000
+Harcourts,Glen Waverley,1750000
+Ray,Glen Waverley,1100000
+Purplebricks,Glenroy,695000
+Ray,Greensborough,817000
+Barry,Greenvale,680000
+Barry,Greenvale,1170000
+RW,Greenvale,830000
+Brad,Hadfield,827000
+Stockdale,Hadfield,627000
+Peter,Hawthorn,690000
+Jellis,Hawthorn,1022000
+RT,Hawthorn,5510000
+Kay,Hawthorn,3335000
+Kay,Hawthorn,560000
+Jellis,Hawthorn,805000
+Jellis,Hawthorn East,1875000
+RT,Hawthorn East,2320000
+Jellis,Hawthorn East,1465000
+Philip,Heathmont,701000
+Miles,Heidelberg Heights,885000
+Brad,Hillside,485000
+hockingstuart,Hoppers Crossing,555500
+Miles,Ivanhoe,910000
+Nelson,Ivanhoe,1300000
+Miles,Ivanhoe East,2525000
+Nelson,Keilor Park,670000
+Nelson,Kensington,990000
+hockingstuart,Kew,942000
+Marshall,Kew,515000
+Jellis,Kew East,2162000
+Jellis,Kew East,2260000
+C21,Keysborough,745000
+Purplebricks,Kingsbury,800001
+Ray,Lalor,521000
+Gary,Malvern,592000
+Marshall,Malvern East,1780000
+Brad,Maribyrnong,585000
+Biggin,Maribyrnong,1085000
+Raine,Melton South,355000
+Raine,Melton West,355000
+Hodges,Mentone,800000
+hockingstuart,Mentone,885000
+Cayzer,Middle Park,2010000
+Marshall,Middle Park,5600000
+Harcourts,Mill Park,732000
+Harcourts,Mill Park,720000
+LJ,Mill Park,556500
+McDonald,Moonee Ponds,1850000
+Barry,Moonee Ponds,760000
+Max,Mooroolbark,872000
+Fletchers,Mooroolbark,730000
+hockingstuart,Mordialloc,1170000
+McGrath,Mount Waverley,1011000
+Barry,Niddrie,1337000
+JMRE,North Melbourne,970000
+Nelson,Oak Park,1138000
+Ray,Oakleigh East,1114000
+Buxton,Oakleigh East,740000
+Buxton,Oakleigh South,1120000
+Thomson,Ormond,280000
+Gary,Ormond,485000
+Buxton,Parkdale,1315000
+Woodards,Parkville,1770000
+Marshall,Port Melbourne,1725000
+Cayzer,Port Melbourne,665000
+Jellis,Prahran,1400000
+hockingstuart,Preston,1400000
+Love,Preston,830000
+Love,Preston,881000
+McGrath,Preston,945000
+Nelson,Preston,1210000
+Barry,Preston,725000
+Nelson,Preston,972500
+Nelson,Preston,955000
+Nelson,Princes Hill,1900000
+Harcourts,Reservoir,521000
+hockingstuart,Reservoir,857700
+Barry,Reservoir,642500
+Biggin,Richmond,575000
+Fletchers,Ringwood East,910000
+Real,Ringwood East,1200000
+Ray,Roxburgh Park,425000
+Hodges,Sandringham,2300000
+Buxton,Sandringham,1710000
+McGrath,Sandringham,2221000
+LJ,Seabrook,515000
+Harcourts,Seaford,540000
+Sweeney,Seaholme,1360000
+Biggin,Seddon,1180000
+McGrath,South Kingsville,790000
+Greg,South Melbourne,530000
+Harcourts,South Morang,915000
+Harcourts,South Morang,644000
+Ray,South Morang,905000
+Abercromby's,South Yarra,800000
+Castran,South Yarra,2210000
+Kay,South Yarra,1400000
+Gary,South Yarra,535000
+MICM,Southbank,422000
+Considine,Strathmore,790000
+Brad,Sunbury,410000
+HAR,Surrey Hills,740000
+Barry,Taylors Hill,680000
+Jellis,Templestowe,1350000
+Jellis,Templestowe Lower,1010000
+Harcourts,Thomastown,740000
+Woodards,Thornbury,493000
+Jellis,Thornbury,1626000
+Williams,Toorak,550000
+hockingstuart,Toorak,682000
+Harcourts,Vermont,975000
+iProperty,Vermont,820000
+Barry,Watsonia North,655000
+Triwest,Werribee,472000
+hockingstuart,Werribee,467000
+Hayeswinckle,Werribee,390000
+Village,West Footscray,1155000
+Biggin,West Footscray,1100000
+Barry,Westmeadows,540000
+Harcourts,Wheelers Hill,1171000
+hockingstuart,Williamstown,1900000
+Barry,Yallambie,1670000
+Jas,Yarraville,950000
+Jellis,Armadale,599000
+Nelson,Brunswick,1026000
+Brad,Aberfeldie,1436000
+Greg,Altona,913000
+RT,Altona North,1070000
+Marshall,Armadale,5100000
+Buxton,Balaclava,600000
+RT,Balwyn North,1950000
+One,Bayswater,824000
+Buxton,Bentleigh East,1470000
+Harcourts,Berwick,975000
+hockingstuart,Black Rock,1950000
+Jellis,Blackburn North,1375000
+Buxton,Box Hill,1820000
+Marshall,Brighton East,2515000
+hockingstuart,Brunswick,800000
+Ray,Bundoora,680000
+Barry,Bundoora,814000
+Stockdale,Bundoora,715000
+Noel,Camberwell,692500
+Woodards,Carlton North,1520000
+Gary,Caulfield East,1609000
+O'Brien,Cheltenham,1295000
+Buxton,Clayton South,575000
+McDonald,Coburg,1210000
+Brad,Coburg,631000
+YPA,Coolaroo,457000
+Fletchers,Croydon,730000
+Hoskins,Croydon Hills,790000
+Philip,Croydon North,857000
+YPA,Dallas,477000
+McLennan,Dandenong,510000
+Barry,Diamond Creek,950000
+Barry,Doncaster,1375000
+Barry,Doncaster East,1175000
+Ray,Doncaster East,1381000
+Barry,Essendon,1185000
+Nelson,Essendon,2100000
+Nelson,Essendon North,801000
+Nelson,Fairfield,1492000
+Alexkarbon,Fawkner,515000
+Barry,Ferntree Gully,760000
+Jellis,Fitzroy,2300000
+Noel,Forest Hill,730000
+Ray,Frankston,695000
+hockingstuart,Frankston South,1155000
+Eview,Frankston South,1905000
+Barry,Gladstone Park,670000
+Marshall,Glen Iris,1300000
+Barry,Glenroy,835000
+Nelson,Glenroy,830000
+Stockdale,Glenroy,780000
+Stockdale,Gowanbrae,635000
+Barry,Greenvale,797000
+Marshall,Hampton,1900000
+Brad,Kealba,750000
+Nelson,Kew,1690000
+Biggin,Maidstone,722000
+Biggin,Maribyrnong,983000
+Nelson,Meadow Heights,482000
+hockingstuart,Melton,430000
+YPA,Melton West,438000
+Hodges,Mentone,900000
+Buxton,Mentone,960500
+Obrien,Mentone,840000
+Sweeney,Moonee Ponds,1210000
+Ray,Mulgrave,650000
+Ray,Mulgrave,1105000
+Greg,Newport,940000
+Barry,Niddrie,1300000
+Woodards,Oakleigh,1150000
+Marshall,Ormond,2110000
+Hodges,Parkdale,1320000
+Brad,Pascoe Vale,676000
+Barry,Point Cook,540000
+Stockdale,Reservoir,861000
+Stockdale,Reservoir,612500
+RW,Reservoir,900000
+Max,Ringwood,1120000
+Raine,Roxburgh Park,570000
+Sweeney,St Albans,645000
+Considine,Strathmore,1280000
+Barry,Sunbury,570000
+YPA,Sunbury,540000
+Barry,Sunbury,482000
+Douglas,Sunshine West,713500
+Barry,Taylors Lakes,705000
+McGrath,Thornbury,1375000
+Jellis,Thornbury,900000
+hockingstuart,Werribee,630000
+McNaughton,Werribee,510000
+Marshall,Armadale,995000
+Jellis,Armadale,1205000
+Jellis,Armadale,1939000
+Jellis,Brunswick,1802500
+Nelson,Brunswick,1500000
+Hodges,Armadale,1870000
+Jellis,Armadale,1918000
+Marshall,Armadale,2050000
+Nelson,Brunswick,2230000
+Ray,Brunswick,410000
+Walshe,Brunswick,272500
+Nelson,Brunswick,680000
+hockingstuart,Bayswater,750000
+Barry,Berwick,815000
+Ray,Chelsea Heights,580000
+Barry,Clayton South,1000000
+Barry,Clayton South,750000
+Barry,Craigieburn,595000
+Barry,Craigieburn,540000
+Jellis,Croydon South,952000
+Barry,Doncaster,1350000
+Bowman,Frankston,655888
+RW,Greenvale,735000
+HAR,Melton South,413000
+hockingstuart,Melton South,431500
+HAR,Melton South,720000
+McDonald,Moonee Ponds,1400000
+Nelson,Moonee Ponds,1275000
+hockingstuart,Mordialloc,850000
+LLC,Mount Waverley,1820000
+Barry,Northcote,1085000
+Collins,Parkville,2675000
+Point,Point Cook,635000
+Barry,Rowville,900000
+Barry,Truganina,603000
+Ray,Wallan,411000
+Barry,Warrandyte,1162000
+Barry,Wyndham Vale,496000
+Barry,Airport West,970000
+Barry,Airport West,790000
+Barry,Altona Meadows,718000
+Buxton,Aspendale,1000000
+Barry,Avondale Heights,727500
+Fletchers,Balwyn,4600000
+Fletchers,Balwyn North,1960000
+Noel,Bayswater,910000
+Barry,Bayswater,862000
+iTRAK,Bayswater,822000
+Noel,Blackburn North,1570000
+Schroeder,Boronia,629000
+Nelson,Briar Hill,825000
+Nick,Brighton,1900000
+Hodges,Brighton East,1262000
+Nelson,Brunswick,1011000
+Lindellas,Brunswick,1150000
+Nelson,Brunswick,970000
+Jellis,Brunswick,1665000
+Gary,Caulfield South,1675000
+Ray,Cheltenham,800000
+O'Brien,Cheltenham,888000
+Collins,Clifton Hill,1300000
+Jellis,Coburg,1090000
+Brad,Coburg North,730000
+Nelson,Coburg North,950000
+Nelson,Coburg North,800000
+Harrington,Collingwood,1079500
+HAR,Craigieburn,380000
+hockingstuart,Cremorne,1245000
+Harcourts,Deepdene,3080000
+Barry,Diamond Creek,588000
+Morrison,Diamond Creek,700000
+Ray,Dingley Village,952000
+hockingstuart,Doncaster East,1198000
+C21,Endeavour Hills,656000
+Ray,Epping,432000
+HAR,Epping,611000
+Millership,Epping,571550
+Nelson,Essendon,2200000
+hockingstuart,Fawkner,767500
+hockingstuart,Fawkner,783000
+hockingstuart,Frankston,840000
+O'Brien,Frankston,560000
+Barry,Frankston,636000
+Ray,Frankston,672500
+O'Brien,Frankston,574000
+hockingstuart,Frankston,1150000
+Ray,Frankston South,1200000
+Barry,Gladstone Park,620000
+Barry,Gladstone Park,730000
+Stockdale,Glenroy,530000
+Nelson,Gowanbrae,790000
+Nelson,Gowanbrae,700000
+Nelson,Gowanbrae,1260000
+Jason,Greenvale,1515000
+Barry,Greenvale,690000
+LJ,Greenvale,679000
+Nelson,Hadfield,772500
+Buxton,Hampton East,1330000
+Hodges,Highett,1430000
+Barry,Hillside,666000
+Prof.,Hillside,700000
+LJ,Hoppers Crossing,505000
+YPA,Jacana,455000
+Barry,Keilor Downs,670000
+Moonee,Keilor East,975000
+Jellis,Kew East,2300000
+McGrath,Kilsyth,830000
+Raine,Kurunjang,439000
+Iconek,Lalor,700000
+Bowman,Langwarrin,510000
+Jas,Maidstone,825000
+Sweeney,Maribyrnong,1250000
+Hodges,McKinnon,1820000
+FN,Melton West,518000
+Ray,Mernda,572500
+Barry,Mulgrave,825000
+Jellis,Murrumbeena,1590000
+Nelson,Niddrie,1050000
+Jellis,Northcote,1585000
+McGrath,Northcote,1315000
+Nelson,Pascoe Vale,826000
+Nelson,Pascoe Vale,1015000
+Point,Point Cook,650000
+hockingstuart,Point Cook,690000
+Nelson,Preston,1455000
+Ray,Reservoir,600000
+Nelson,Reservoir,900000
+hockingstuart,Reservoir,810000
+Barry,Reservoir,920000
+McGrath,Reservoir,775000
+Biggin,Richmond,1700000
+Carter,Ringwood,1246000
+Cayzer,Ripponlea,1380000
+Ray,Rowville,956000
+YPA,Roxburgh Park,630000
+RW,South Morang,500000
+Millership,South Morang,697000
+Sweeney,Spotswood,1060000
+McGrath/Langwell,St Kilda,1310000
+Brad,Sunbury,450000
+Barry,Sunbury,516500
+Raine,Sunbury,580000
+Brad,Sunbury,590000
+Bells,Sunshine West,560000
+Barry,Taylors Hill,830000
+YPA,Taylors Hill,660000
+Barry,Taylors Lakes,720000
+McGrath,Templestowe Lower,1330000
+Ray,Thomastown,860000
+Miles,Viewbank,1140000
+Jellis,Wantirna,975000
+Barry,Wantirna,1188888
+Ray,Wantirna South,1075000
+Barry,Watsonia North,700000
+Mason,Wattle Glen,835000
+Barry,Werribee,420000
+Burns,Werribee,552000
+Barry,Werribee,501000
+hockingstuart,Williams Landing,785000
+Williams,Williamstown,1115000
+HAR,Wollert,640000
+Barry,Wyndham Vale,400000
+Jellis,Brunswick,1652000
+Walshe,Brunswick,735000
+Woodards,Brunswick,1210000
+Jellis,Brunswick,400000
+Jellis,Brunswick,950000
+Marshall,Armadale,735000
+Nelson,Brunswick,845500
+Jellis,Brunswick,605000
+Walshe,Brunswick,445000
+Nelson,Abbotsford,1240000
+Raine,Airport West,790000
+Greg,Altona,940000
+Nelson,Ascot Vale,950000
+FN,Bacchus Marsh,412000
+Noel,Balwyn North,3870000
+William,Bellfield,795000
+Buxton,Bentleigh,1210000
+Buxton,Bentleigh,1600000
+hockingstuart,Bentleigh East,1050000
+LJ,Boronia,720500
+RW,Broadmeadows,642500
+Stockdale,Broadmeadows,770000
+Jellis,Brunswick East,1200000
+Barry,Bundoora,770000
+Ray,Bundoora,438000
+Buxton,Camberwell,2235000
+Fletchers,Camberwell,1870000
+Buxton,Chadstone,882000
+O'Brien,Cheltenham,975000
+Ray,Cheltenham,990000
+Win,Chirnside Park,765000
+Barry,Clayton South,785000
+Ray,Clayton South,877500
+Fletchers,Clayton South,955000
+Barry,Coburg,730000
+Barry,Coburg North,825000
+LJ,Craigieburn,625000
+Ray,Craigieburn,520000
+Barry,Craigieburn,530000
+LJ,Craigieburn,590000
+Raine,Craigieburn,715000
+hockingstuart,Croydon,1000000
+Barry,Dallas,600000
+LJH,Dandenong,570000
+C21,Dandenong,645000
+Buxton,Dingley Village,927000
+Barry,Donvale,969000
+Barry,Donvale,1025000
+Barry,Edithvale,715000
+Fletchers,Eltham,1560000
+Buckingham,Eltham,960000
+Nelson,Eltham,860000
+Ristic,Epping,570000
+Melbourne,Epping,766000
+Iconek,Epping,630000
+Appleby,Ferntree Gully,860000
+hockingstuart,Ferntree Gully,735000
+Collins,Fitzroy North,920000
+O'Brien,Frankston South,563000
+Raine,Gisborne,515000
+Ray,Glen Waverley,1100000
+Harcourts,Glen Waverley,1075000
+RW,Glenroy,780000
+Barry,Glenroy,1200000
+Nelson,Gowanbrae,900000
+Buckingham,Greensborough,717500
+Stockdale,Greenvale,805000
+O'Brien,Hallam,645000
+Marshall,Hawthorn East,1055000
+Nelson,Heidelberg Heights,760000
+Barry,Keilor East,1150000
+Barry,Keysborough,800000
+Fletchers,Kilsyth,657000
+Harcourts,Knoxfield,795000
+Raine,Lalor,779000
+Morrison,Lower Plenty,2287500
+YPA,Meadow Heights,525000
+PRDNationwide,Melton,395000
+Ryder,Melton South,407000
+Barry,Mentone,1150000
+The,Mill Park,668000
+Barry,Montmorency,850000
+Prof.,Mount Evelyn,655000
+Buxton,Mount Waverley,1470000
+Williams,Newport,736500
+Williams,Newport,1040000
+Sweeney,Newport,980000
+Williams,Newport,1570000
+Williams,Newport,1300000
+Barry,Niddrie,1410000
+Fletchers,Nunawading,1056000
+Woodards,Oakleigh South,1000000
+Buxton,Oakleigh South,813500
+Buxton,Parkdale,1365000
+LJ,Point Cook,500500
+hockingstuart,Point Cook,1060000
+LJ,Point Cook,940000
+Nelson,Preston,1331000
+Barry,Reservoir,825000
+Nelson,Reservoir,945000
+Jellis,Richmond,1055000
+Marshall,Richmond,850000
+Jellis,Ringwood North,942000
+YPA,Roxburgh Park,600000
+Jason,Roxburgh Park,688500
+LJ,Seabrook,570000
+O'Brien,Seaford,790000
+Thomson,Seddon,817000
+HAR,South Morang,621000
+Brad,Sunbury,677000
+Purplebricks,Sunshine West,700000
+S&L,Sunshine West,702500
+RT,Surrey Hills,1901000
+YPA,Taylors Hill,490000
+Barry,Taylors Hill,690000
+O'Brien,Taylors Hill,695000
+Nelson,Thornbury,1500000
+hockingstuart,Truganina,667000
+Barry,Wantirna,1065800
+Ray,Watsonia,1035000
+Barry,Watsonia North,806000
+Ray,Werribee,550000
+Greg,Williamstown,1760000
+hockingstuart,Wollert,478000
+hockingstuart,Wyndham Vale,457000
+hockingstuart,Yarraville,1561000
+Walshe,Brunswick,659500
+Nelson,Brunswick,600000
+hockingstuart,Armadale,480000
+Nelson,Brunswick,528000
+Caine,Brunswick,1115000
+Ray,Brunswick,320000
+Jellis,Brunswick,1260000
+Woodards,Brunswick,1210000
+Nelson,Airport West,670000
+Harcourts,Avondale Heights,720000
+Nelson,Avondale Heights,1107500
+Ray,Bayswater,520000
+Hodges,Bentleigh,380000
+Peake,Berwick,920000
+Eview,Berwick,950000
+Barry,Blackburn,485000
+Barry,Blackburn South,1291000
+Ray,Boronia,775000
+Philip,Boronia,820000
+Douglas,Braybrook,797000
+hockingstuart,Braybrook,590000
+Buxton,Brighton East,585000
+Jellis,Brighton East,1580000
+hockingstuart,Broadmeadows,386000
+hockingstuart,Brooklyn,515000
+Jellis,Brunswick,1515000
+Nelson,Brunswick,1037000
+Woodards,Brunswick East,1330000
+Jellis,Brunswick East,937000
+Dingle,Brunswick East,290000
+Barry,Bundoora,730000
+Buckingham,Bundoora,660000
+Ray,Burwood East,1150000
+Fletchers,Burwood East,1600000
+hockingstuart,Camberwell,755000
+Thomson,Carnegie,750000
+Gary,Carnegie,286000
+hockingstuart,Carnegie,580010
+hockingstuart,Carnegie,1250000
+O'Brien,Caroline Springs,360000
+Barry,Caroline Springs,740000
+Harcourts,Carrum Downs,647000
+Ray,Chadstone,930000
+Nelson,Coburg,760000
+Woodards,Coburg,876000
+Jellis,Collingwood,365000
+Dixon,Collingwood,1297000
+Ray,Croydon,865000
+Barry,Croydon,760000
+Stockdale,Croydon,725000
+Barry,Croydon,1120000
+Hodges,Dandenong North,930000
+Barry,Deer Park,557000
+Barry,Deer Park,650000
+Buxton,Dingley Village,806000
+Philip,Doncaster,1663000
+Barry,Doncaster East,1310000
+Barry,Doncaster East,1530000
+Sell,Donvale,630000
+Nelson,Eaglemont,1300000
+O'Brien,Edithvale,1260000
+Barry,Eltham,655000
+Wilson,Elwood,435000
+Ristic,Epping,490000
+Harcourts,Epping,417500
+Barry,Essendon,1398000
+Ray,Ferntree Gully,664000
+Nelson,Fitzroy,790000
+Jellis,Fitzroy,830000
+hockingstuart,Fitzroy,456000
+O'Brien,Frankston,565000
+Ash,Frankston South,810000
+Barry,Gladstone Park,749000
+Woodards,Glen Iris,260000
+Thomson,Glen Iris,330000
+Jellis,Glen Iris,501000
+Harcourts,Glen Waverley,1070000
+RW,Glenroy,700000
+Nelson,Glenroy,400000
+Eview,Glenroy,675000
+hockingstuart,Greensborough,866000
+LJ,Greenvale,800000
+Eview,Hadfield,735000
+Eview,Hadfield,595000
+McGrath,Hampton East,771000
+Stockdale,Hampton Park,400000
+Jellis,Hawthorn,455000
+Marshall,Hawthorn East,615888
+hockingstuart,Highett,1820000
+Woodards,Hughesdale,1475000
+Upper,Ivanhoe,2100000
+Miles,Ivanhoe,1320000
+RW,Jacana,575500
+Nelson,Keilor,635000
+Barry,Keilor Downs,620000
+Nelson,Keilor East,1005000
+Nelson,Keilor Park,700000
+Edward,Kensington,390000
+Noel,Kew,1410000
+Barry,Lalor,710500
+hockingstuart,Lalor,752000
+Ray,Lalor,622000
+Jas,Maidstone,650000
+Biggin,Maidstone,435000
+hockingstuart,Maribyrnong,1340000
+Barry,Meadow Heights,450000
+YPA,Meadow Heights,440000
+Ryder,Melton,550000
+HAR,Melton,373500
+Chisholm,Mentone,640000
+hockingstuart,Mentone,940000
+RW,Mill Park,705000
+Ray,Mill Park,790000
+Ray,Mill Park,704500
+Ray,Mill Park,550000
+Ray,Mill Park,598000
+Harcourts,Mill Park,592000
+Ray,Mill Park,602000
+McGrath,Montrose,735000
+Jellis,Moonee Ponds,1270000
+iTRAK,Mooroolbark,650000
+Ray,Mordialloc,1400000
+hockingstuart,Mordialloc,1627000
+Jellis,Mount Waverley,1850000
+Buxton,Murrumbeena,1820000
+Nelson,North Melbourne,785000
+Fletchers,Nunawading,676000
+Fletchers,Nunawading,1002000
+Noel,Nunawading,1175000
+Buxton,Oakleigh East,875000
+HAR,Oakleigh South,774000
+Buxton,Ormond,327000
+Buxton,Ormond,1900000
+Ray,Parkdale,2185000
+Nelson,Pascoe Vale,1210000
+Harcourts,Reservoir,351000
+Hoskins,Ringwood,1725000
+Purplebricks,Ringwood,633000
+Philip,Ringwood East,1090000
+HAR,Rowville,936000
+Harcourts,Rowville,860000
+McGrath,Sandringham,850000
+Harcourts,Seaford,800000
+Greg,South Melbourne,1720000
+Harcourts,South Morang,690000
+Iconek,South Morang,875000
+Harcourts,South Morang,420000
+Harcourts,South Morang,677500
+Noel,South Yarra,600000
+hockingstuart,South Yarra,762500
+Greg,South Yarra,1855500
+McGrath,Spotswood,802000
+Barry,St Albans,631000
+YPA,St Albans,582000
+Buxton,St Kilda,468000
+Chisholm,St Kilda,470000
+Nelson,Strathmore,750000
+Brad,Sunbury,410000
+Raine,Sunbury,512500
+Douglas,Sunshine,830500
+Barry,Sunshine West,551000
+Douglas,Sunshine West,450000
+Barry,Templestowe,1635000
+Barry,Templestowe Lower,1138000
+Ray,The Basin,477000
+Ray,Thomastown,605000
+Harcourts,Thomastown,610000
+Harcourts,Thomastown,580000
+Harcourts,Thornbury,415000
+Nelson,Thornbury,905000
+TRUE,Truganina,451000
+Jason,Tullamarine,895000
+Stockdale,Tullamarine,586000
+Ray,Wantirna South,1055000
+YPA,Werribee,529000
+hockingstuart,Werribee,484000
+MICM,West Melbourne,670000
+McGrath,West Melbourne,510000
+Barry,Westmeadows,410000
+Buxton,Windsor,410000
+hockingstuart,Wyndham Vale,478000
+Village,Yarraville,1285000
+Jellis,Armadale,1435000
+Jellis,Brunswick,1115000
+Jellis,Brunswick,1125000
+Nelson,Brunswick,855000
+Ray,Brunswick,940000
+Nelson,Airport West,1000001
+Jellis,Alphington,1170000
+hockingstuart,Altona,458000
+Nelson,Ascot Vale,870000
+Jellis,Ascot Vale,870000
+Ray,Aspendale,780000
+hockingstuart,Balwyn,2750000
+Jellis,Balwyn North,2000000
+One,Bayswater North,900000
+Ray,Beaumaris,1354000
+Fletchers,Blackburn,1390000
+Nelson,Brunswick West,875000
+Nelson,Brunswick West,1250000
+Walshe,Brunswick West,1225000
+Barry,Bulleen,980000
+Ray,Bundoora,758000
+Fletchers,Burwood,1750000
+Harrington,Carlton,1263000
+Buxton,Clayton South,985000
+YPA,Craigieburn,595000
+hockingstuart,Deer Park,589000
+Buxton,Dingley Village,952000
+Barry,Doncaster East,1600000
+Mason,Doreen,481000
+Buckingham,Eltham North,950000
+Barry,Epping,641000
+Schroeder,Ferntree Gully,797000
+Jellis,Flemington,820000
+Jellis,Flemington,1225000
+hockingstuart,Footscray,800000
+Ray,Frankston,1010000
+Ray,Frankston South,830000
+Raine,Gisborne,780000
+Marshall,Glen Iris,2200000
+Harcourts,Glen Waverley,1790000
+Nelson,Glenroy,605000
+Nelson,Greensborough,1000000
+Barry,Hadfield,750000
+Ray,Heathmont,1165000
+RW,Heathmont,932000
+Charlton,Highett,1550000
+Reliance,Hoppers Crossing,510000
+Nelson,Ivanhoe East,1535000
+Daniel,Keilor,678500
+Brad,Keilor Downs,720000
+Nelson,Keilor East,1188000
+Jas,Kingsville,1100000
+Biggin,Maidstone,865000
+Marshall,Malvern,1510000
+Stockdale,Meadow Heights,473000
+hockingstuart,Melton South,410000
+Marshall,Middle Park,6400000
+Darren,Mill Park,757000
+Fletchers,Mitcham,1200000
+Noel,Mitcham,1237000
+Nelson,Moonee Ponds,1205000
+Jellis,Moonee Ponds,1240000
+Fletchers,Mooroolbark,720000
+Sweeney,Newport,1567000
+Nelson,Niddrie,1370000
+Gardiner,North Warrandyte,902000
+Nelson,Northcote,1685000
+Barry,Oakleigh,1495000
+Buxton,Oakleigh South,1110000
+Buxton,Ormond,1103000
+Greg,Port Melbourne,1845000
+Cayzer,Port Melbourne,1000000
+hockingstuart,Prahran,1650000
+hockingstuart,Reservoir,755000
+Jellis,Richmond,1525000
+Jellis,Richmond,592000
+hockingstuart,Ringwood,1040000
+Philip,Ringwood East,800000
+Fletchers,Rosanna,1800000
+YPA,Roxburgh Park,580500
+hockingstuart,Sandringham,2700000
+Marshall,Sandringham,2290000
+Buxton,Sandringham,1725000
+hockingstuart,Seaford,770000
+Marshall,South Melbourne,1355000
+The,South Morang,540000
+Douglas,Sunshine North,770000
+Marshall,Surrey Hills,3625000
+Barry,Templestowe Lower,1585000
+Ray,Wantirna,925000
+Ray,Waterways,1232000
+hockingstuart,Werribee,621000
+hockingstuart,Wollert,730000
+Village,Yarraville,800000
+hockingstuart,Yarraville,1100000
+Nelson,Airport West,776000
+Barry,Airport West,1220000
+RT,Altona North,835000
+Sweeney,Altona North,860000
+Barry,Ardeer,740000
+Raine,Ascot Vale,1800000
+Nelson,Ascot Vale,1400000
+Marshall,Ashburton,2350000
+Buxton,Ashwood,1360000
+hockingstuart/hockingstuart,Aspendale,1070000
+Ray,Aspendale Gardens,867500
+Barry,Attwood,820000
+Barry,Attwood,915000
+Moonee,Avondale Heights,970000
+hockingstuart,Balaclava,1170000
+Fletchers,Balwyn,2650000
+Jellis,Balwyn North,2100000
+Buxton,Bentleigh,1300000
+Buxton,Bentleigh,1750000
+Woodards,Bentleigh East,1240000
+Woodards,Bentleigh East,1430000
+Ray,Blackburn,1050000
+Fletchers,Blackburn North,1030000
+hockingstuart,Brighton,2520000
+Buxton,Brighton East,2100000
+Love,Broadmeadows,500000
+Barry,Bundoora,755000
+Barry,Bundoora,770000
+Jellis,Camberwell,1660000
+RT,Camberwell,1300000
+RT,Camberwell,1625000
+Gary,Caulfield South,1352000
+Ray,Chelsea Heights,745500
+hockingstuart/hockingstuart,Chelsea Heights,686000
+Hodges,Cheltenham,1800000
+Buxton,Cheltenham,1150000
+Nelson,Coburg,1050000
+Nelson,Coburg,900000
+HAR,Craigieburn,515000
+Barry,Craigieburn,610000
+RE,Craigieburn,565100
+Ray,Craigieburn,516000
+Barry,Croydon,850000
+Barry,Delahey,600000
+Philip,Donvale,1201000
+hockingstuart,Donvale,802000
+Philip,Donvale,1105000
+Love,Doreen,510000
+hockingstuart,Elsternwick,1459000
+Barry,Epping,619000
+Iconek,Epping,585000
+Ray,Epping,552000
+Schroeder,Ferntree Gully,880000
+Nelson,Fitzroy North,2540000
+Nelson,Fitzroy North,1650000
+Nelson,Flemington,1300000
+Gunn&Co,Footscray,1225000
+Fletchers,Forest Hill,1200000
+Aquire,Frankston,550000
+O'Brien,Frankston,642000
+O'Brien,Frankston,599000
+O'Brien,Frankston,585000
+Purplebricks,Frankston North,500000
+Barry,Gladstone Park,721500
+Boran,Glenroy,810000
+Brad,Glenroy,685000
+Barry,Greenvale,880000
+YPA,Greenvale,685000
+Buxton,Hampton,3100000
+Buxton,Hampton East,1700000
+Buxton,Hampton East,1175000
+Buxton,Hampton East,1347000
+Jellis,Hawthorn,1660000
+Barry,Hillside,610000
+Barry,Hoppers Crossing,570000
+Miles,Ivanhoe,1200000
+C21,Kealba,600000
+Barry,Keilor Downs,780000
+Barry,Keilor East,925000
+Nelson,Keilor East,850000
+Nelson,Keilor East,740000
+Nelson,Kensington,1760000
+Marshall,Kew,5200000
+Jellis,Kew,3275000
+McGrath,Keysborough,970000
+Barry,Kings Park,526000
+Ray,Lalor,695000
+HAR,Lalor,676000
+hockingstuart,Malvern East,2180000
+Marshall,Malvern East,1620000
+Nelson,Maribyrnong,1190000
+Nelson,Maribyrnong,1770000
+Buxton,McKinnon,1312000
+PRDNationwide,Melton South,420000
+RW,Mernda,525000
+RE,Mickleham,1225000
+Marshall,Middle Park,1515000
+Millership,Mill Park,671000
+HAR,Mill Park,660000
+Ray,Mill Park,730000
+Ray,Mitcham,2305000
+Nelson,Moonee Ponds,1400000
+Barry,Niddrie,1250000
+Ray,Officer,563000
+Gary,Ormond,1370000
+O'Brien,Pakenham,571000
+Just,Pakenham,480000
+Buxton,Parkdale,1140000
+Brad,Pascoe Vale,1110000
+LJ,Point Cook,655000
+Greg,Port Melbourne,1200000
+Marshall,Port Melbourne,2725000
+McGrath,Preston,1500000
+RW,Preston,1081000
+hockingstuart,Reservoir,980000
+Biggin,Richmond,2200000
+Barry,Ringwood,1230000
+Fletchers,Ringwood East,1675000
+Ray,Roxburgh Park,431000
+Barry,Roxburgh Park,575000
+Buxton,Sandringham,2200000
+hockingstuart/hockingstuart,Seaford,850000
+Harcourts,Skye,520000
+Morrison,South Morang,870000
+Stockdale,South Morang,621000
+HAR,South Morang,612000
+Purplebricks,St Albans,660000
+Bells,St Albans,620000
+Barry,St Albans,620000
+Nelson,Strathmore,1400000
+Nelson,Strathmore Heights,800000
+Barry,Sunbury,675000
+L,Sunbury,367000
+Raine,Sunbury,465000
+Jas,Sunshine,975000
+Barry,Taylors Lakes,836000
+Barry,Taylors Lakes,725000
+Noel,Templestowe,1950000
+Ray,Thomastown,657000
+HAR,Thomastown,645000
+Jellis,Thornbury,1250000
+Barry,Vermont,1160000
+Fletchers,Vermont,903000
+Harcourts,Vermont,1595000
+hockingstuart,Wantirna,812000
+Darren,Watsonia,850000
+Barry,Werribee,620000
+Barry,Werribee,627500
+Ray,Werribee,880000
+Sweeney,West Footscray,857500
+Sweeney,Williamstown,1285000
+Greg,Williamstown,2065000
+Williams,Williamstown North,1615000
+HAR,Wollert,609000
+Iconek,Wollert,540000
+HAR,Wollert,615000
+YPA,Wyndham Vale,632000
+LJ,Wyndham Vale,415000
+hockingstuart,Wyndham Vale,600000
+Williams,Altona,970000
+Buxton,Bentleigh East,700000
+Buxton,Bentleigh East,1751000
+Noel,Blackburn South,1030000
+Nelson,Brunswick,1005000
+Nelson,Brunswick East,1190000
+Jellis,Brunswick West,1250000
+Nelson,Coburg North,940000
+YPA,Craigieburn,620000
+YPA,Craigieburn,520000
+Ray,Craigieburn,385000
+YPA,Dallas,515000
+Barry,Doncaster,885000
+YPA,Doreen,622000
+Rendina,Essendon,1715000
+O'Brien,Hillside,680000
+Barry,Hoppers Crossing,795000
+Sweeney,Hoppers Crossing,556000
+Ray,Kealba,610000
+YPA,Keilor Downs,665000
+Village,Kingsville,1020000
+Ray,Lalor,625000
+Biggin,Maribyrnong,765000
+YPA,Meadow Heights,587000
+Stockdale,Mernda,610000
+Ray,Mill Park,825000
+Nelson,Moonee Ponds,1285000
+Win,Mulgrave,842000
+Harcourts,Narre Warren,652000
+O'Brien,Narre Warren,495000
+Barry,Nunawading,970000
+LJ,Point Cook,733000
+hockingstuart,Point Cook,697000
+LJ,Point Cook,631500
+Greg,Port Melbourne,1950000
+Ray,Rosanna,1210000
+LJ,Sandhurst,640000
+Property,Seaford,800000
+Skad,South Morang,652000
+Barry,Sunbury,610000
+hockingstuart,Tarneit,516000
+Barry,Taylors Hill,735000
+Ray,Templestowe Lower,1150000
+Nelson,Thornbury,1850000
+Barry,Truganina,607000
+One,Truganina,611000
+Ray,Truganina,557500
+Stockdale,Upwey,1075000
+Barry,Wantirna South,1371000
+YPA,Werribee,470000
+Jellis,Alphington,1575000
+Reliance,Altona Meadows,761000
+C21,Berwick,780000
+@Realty,Broadmeadows,650000
+Eview,Broadmeadows,698000
+Collins,Brunswick,1320000
+Nelson,Coburg,975000
+Ray,Craigieburn,660000
+Barry,Craigieburn,455000
+Ray,Craigieburn,583000
+Ray,Craigieburn,613500
+LJ,Craigieburn,740000
+Ray,Craigieburn,700000
+Barry,Craigieburn,562500
+FN,Dallas,510000
+FN,Dallas,520000
+Le,Dandenong North,642500
+Jellis,Doncaster,2250000
+Barry,Doncaster East,1200000
+Buckingham,Eltham,1230000
+Ray,Epping,589500
+Raine,Gladstone Park,619500
+Barry,Glen Waverley,815000
+Eview,Glenroy,876500
+RW,Glenroy,680000
+Stockdale,Glenroy,777777
+HAR,Greenvale,675000
+Miles,Heidelberg,588000
+Sweeney,Hoppers Crossing,428000
+Nelson,Keilor East,1000000
+Noel,Lysterfield,730000
+PRDNationwide,Melton South,380000
+LITTLE,Mernda,610000
+HAR,Mill Park,780000
+HAR,Mill Park,763000
+Ray,Mulgrave,845000
+Jellis,Northcote,1700000
+Jellis,Northcote,1660000
+O'Brien,Pakenham,510000
+hockingstuart,Point Cook,640000
+Point,Point Cook,516000
+Ray,Reservoir,460000
+Ray,Reservoir,650000
+YPA,Roxburgh Park,705000
+Raine,Roxburgh Park,622000
+Sweeney,Tarneit,610000
+YPA,Taylors Hill,700000
+Barry,Wantirna South,1180501
+hockingstuart,Wollert,740000
+hockingstuart,Armadale,280000
+Nelson,Brunswick,750000
+Nelson,Brunswick,1056000
+hockingstuart,Armadale,592500
+Dingle,Brunswick,880000
+Nelson,Brunswick,1222500
+Nelson,Brunswick,955000
+Barry,Aberfeldie,1150000
+Barry,Albanvale,560000
+Marshall,Albert Park,3000000
+FN,Altona North,840000
+Raine,Ascot Vale,1365000
+Moonee,Avondale Heights,1100000
+LITTLE,Avondale Heights,790000
+Jellis,Balwyn North,3200000
+Hodges,Beaumaris,1957500
+Ray,Beaumaris,2700000
+Ray,Beaumaris,1776000
+Ray,Bentleigh East,886000
+Jellis,Bentleigh East,1160000
+Philip,Blackburn,1790000
+hockingstuart,Bonbeach,1120000
+RT,Box Hill,1875000
+Marshall,Brighton,4400000
+YPA,Broadmeadows,605000
+Nelson,Brunswick East,907000
+Raine,Brunswick West,1085000
+Barry,Bundoora,1755000
+YPA,Burnside,665000
+YPA,Burnside,620000
+Barry,Burnside Heights,575000
+Nelson,Carlton North,1650000
+RT,Carrum,712500
+Ray,Chelsea Heights,872500
+C21,Clarinda,862000
+Brad,Coburg,1270000
+Ray,Craigieburn,530000
+YPA,Craigieburn,570000
+Ray,Croydon North,887000
+Barry,Dallas,480888
+Del,Dandenong,760000
+O'Brien,Dandenong North,792000
+Calder,Delahey,600000
+Raine,Diggers Rest,501000
+Jellis,Doncaster,1500000
+Fletchers,Doncaster,2900000
+Jellis,Doncaster East,1268000
+Jellis,Doncaster East,1128000
+Jellis,Donvale,1280000
+HAR,Doreen,578000
+Buckingham,Eltham,916500
+Stockdale,Ferntree Gully,840000
+Nelson,Fitzroy,2790000
+Jellis,Forest Hill,1120000
+Jellis,Glen Waverley,1950000
+Harcourts,Glen Waverley,1100000
+Buxton,Hampton East,1467000
+Barry,Hoppers Crossing,551500
+YPA,Hoppers Crossing,585000
+Barry,Hughesdale,1407000
+Nelson,Ivanhoe,1465000
+Miles,Ivanhoe,1865000
+Nelson,Keilor East,810000
+Barry,Keilor East,965000
+Marshall,Kew,2000000
+McGrath,Kilsyth,906000
+Compton,Maidstone,875000
+PRDNationwide,Melton,710000
+hockingstuart,Melton South,580000
+Raine,Melton West,356000
+Upside,Mentone,825000
+RW,Mernda,550000
+Ray,Mill Park,660000
+Ray,Mill Park,665000
+Jellis,Mount Waverley,1300000
+Ray,Mulgrave,1375000
+Woodards,Murrumbeena,1450000
+RT,Newport,1230000
+Jellis,Oak Park,1390000
+Jellis,Oakleigh East,997000
+Buxton,Oakleigh South,1175000
+Reliance,Point Cook,673000
+Marshall,Port Melbourne,1670000
+hockingstuart,Prahran,1000000
+Nelson,Reservoir,570000
+Nelson,Reservoir,821000
+Nelson,Reservoir,1076000
+Jellis,Richmond,1400000
+Stockdale,Roxburgh Park,570000
+Raine,Roxburgh Park,610000
+RW,Roxburgh Park,577500
+MICM,Seabrook,759000
+Ray,South Morang,520000
+RT,South Yarra,1640000
+Jellis,South Yarra,1560000
+Purplebricks,St Albans,680000
+Wilson,St Kilda,2102000
+McDonald,Strathmore,1640000
+Raine,Sunbury,480000
+Ray,Sunbury,840000
+Jas,Sunshine West,748000
+Sweeney,Sunshine West,910500
+Jellis,Surrey Hills,3075000
+O'Brien,Taylors Hill,675000
+Barry,Templestowe Lower,1500000
+McGrath,Templestowe Lower,1506000
+HAR,Thomastown,665000
+Nelson,Thornbury,1720000
+Jellis,Thornbury,830000
+Nelson,Tullamarine,700000
+Barry,Vermont South,1320000
+OBrien,Wantirna South,1250000
+OBrien,Wantirna South,1050000
+Barry,Werribee,490500
+YPA,Werribee,545000
+FN,Werribee,547000
+YPA,Westmeadows,755000
+Reliance,Williams Landing,850000
+Barlow,Williamstown,1800000
+Love,Wollert,880000
+Buckingham,Yallambie,990000
+Barry,Yallambie,781000
+Village,Yarraville,850000
+Nelson,Abbotsford,1635000
+Barlow,Altona,1225000
+Barlow,Altona,767000
+Purplebricks,Altona Meadows,810000
+hockingstuart,Armadale,821000
+Jellis,Ashburton,1520000
+Jellis,Ashburton,2299500
+Fletchers,Balwyn,2360000
+hockingstuart,Balwyn North,1460000
+Buxton,Bentleigh,1280000
+Buxton,Bentleigh,1750000
+Noel,Blackburn,1100000
+Jellis,Blackburn North,1250000
+Buckingham,Briar Hill,830000
+Buxton,Brighton,4050000
+Marshall,Brighton,2210000
+Buxton,Brighton East,1680000
+Hodges,Brighton East,890000
+Ray,Broadmeadows,632000
+Nelson,Brunswick,1310000
+Jellis,Brunswick West,1500000
+Jellis,Bulleen,1751000
+Morrison,Bundoora,685000
+Barry,Bundoora,725000
+Barry,Bundoora,505000
+Ray,Bundoora,1253000
+Fletchers,Burwood,1390000
+Kay,Canterbury,2725000
+Barry,Caroline Springs,870000
+O'Brien,Carrum Downs,552500
+Marshall,Caulfield North,1925000
+Woodards,Chadstone,995000
+Barry,Cheltenham,1200000
+Woodards,Clarinda,1241000
+Ray,Clayton,1250000
+Nelson,Clayton,729500
+Jellis,Collingwood,560000
+Ray,Craigieburn,565000
+YPA,Craigieburn,615000
+Stockdale,Craigieburn,548000
+Stockdale,Craigieburn,716000
+Fletchers,Croydon,730000
+Jellis,Croydon North,766000
+Fletchers,Deepdene,1680000
+YPA,Delahey,475000
+Morrison,Diamond Creek,815000
+Leading,Diggers Rest,615000
+Jellis,Donvale,1328000
+Caine,East Melbourne,1300000
+Jellis,Eltham,762000
+Fletchers,Eltham North,900000
+Marshall,Elwood,3175000
+Biggin,Elwood,520000
+Nelson,Essendon,2165000
+Bullen,Essendon,2050000
+Nelson,Essendon,1500000
+Jellis,Fitzroy,545000
+Nelson,Fitzroy North,1705000
+Nelson,Flemington,1220000
+Jas,Footscray,455000
+Nelson,Footscray,575000
+Raine,Gisborne,775000
+Barry,Gladstone Park,629000
+Marshall,Glen Iris,3400000
+Jellis,Glen Iris,320000
+Marshall,Glen Iris,2165000
+Marshall,Glen Iris,851000
+Harcourts,Glen Waverley,1311000
+Nelson,Glenroy,565000
+Barry,Glenroy,770000
+Barry,Greensborough,714000
+Nelson,Greensborough,815000
+Buxton,Hampton East,1345000
+hockingstuart,Hawthorn,420000
+Jellis,Hawthorn,1857000
+Jellis,Hawthorn,1425000
+Jellis,Hawthorn,1910000
+Marshall,Hawthorn,1485000
+Noel,Hawthorn East,505000
+Ray,Heathmont,912000
+Mason,Heidelberg,450000
+Fletchers,Heidelberg Heights,1645000
+YPA,Hillside,580000
+Barry,Hughesdale,1570000
+Mason,Hurstbridge,790000
+Morrison,Jacana,550000
+Nelson,Kensington,1225000
+Marshall,Kew,1510000
+Nelson,Kew,1007000
+Jellis,Kew,860000
+Jas,Kingsville,570000
+Jas,Kingsville,900000
+Reliance,Kurunjang,345000
+Biggin,Maidstone,642500
+Biggin,Maidstone,798000
+Jas,Maidstone,710000
+Hodges,Malvern,4050000
+Marshall,Malvern,1650000
+Marshall,Malvern,2020000
+Jellis,Malvern East,2500000
+RT,Malvern East,2500000
+Biggin,Maribyrnong,1200000
+Biggin,Maribyrnong,940000
+Buxton,McKinnon,1200000
+hockingstuart,Melton West,600000
+Greg,Mentone,2025000
+Love,Mernda,630000
+Jellis,Moonee Ponds,1225000
+Buxton,Mordialloc,1800000
+Fletchers,Mount Waverley,900000
+McGrath,Mount Waverley,2558000
+Williams,Newport,730000
+Barry,Niddrie,1230000
+Ray,Oakleigh South,601000
+Woodards,Ormond,370000
+Nelson,Pascoe Vale,900000
+Brad,Pascoe Vale,257500
+Brad,Pascoe Vale,257500
+Brad,Pascoe Vale,1114000
+LJ,Point Cook,520000
+Chisholm,Port Melbourne,760000
+Jellis,Prahran,2635000
+Biggin,Prahran,1250000
+hockingstuart,Prahran,400000
+Marshall,Prahran,4200000
+hockingstuart,Prahran,626000
+Nelson,Preston,1148000
+Nelson,Reservoir,935000
+Stockdale,Reservoir,510000
+Ray,Reservoir,755000
+Nelson,Reservoir,1200000
+RW,Ringwood,800000
+Miles,Rosanna,1170000
+hockingstuart,Scoresby,870000
+Greg,South Melbourne,1800000
+Love,South Morang,485000
+Kay,South Yarra,1350000
+Jellis,South Yarra,410000
+McGrath,St Kilda,701000
+Gary,St Kilda,1600000
+Nelson,Strathmore,2000000
+Considine,Strathmore,1610000
+S&L,Sunshine,700000
+Barry,Sunshine,615000
+Fletchers,Surrey Hills,2400000
+Purplebricks,Tarneit,505000
+Reliance,Tarneit,560000
+Barry,Templestowe,1205000
+Ray,Templestowe,1750000
+Barry,Templestowe Lower,1410000
+HAR,Thomastown,670000
+Scott,Toorak,1860000
+Castran,Toorak,1350000
+hockingstuart,Vermont,980000
+Ray,Werribee,455000
+YPA,Werribee,455000
+Jas,West Footscray,1276000
+Barry,Wheelers Hill,1157000
+Barry,Wheelers Hill,1100000
+YPA,Wyndham Vale,500000
+Nelson,Yarraville,1142000
+Sweeney,Yarraville,780000
+Marshall,Armadale,1210000
+Marshall,Armadale,2801000
+Jellis,Brunswick,587000
+Nelson,Brunswick,1060000
+Jellis,Brunswick,890000
+Jellis,Brunswick,1385000
+Nelson,Brunswick,981000
+Harcourts,Brunswick,418000
+Jellis,Brunswick,685000
+Jellis,Brunswick,976000
+RW,Brunswick,641000
+Nelson,Airport West,730000
+Barry,Airport West,770000
+Nelson,Airport West,805000
+Marshall,Albert Park,1330000
+Greg,Albert Park,3600000
+Miles,Alphington,1550000
+Barry,Ardeer,615000
+Marshall,Armadale,1895000
+Brad,Ascot Vale,1635000
+Marshall,Ashburton,2005000
+Nelson,Avondale Heights,785000
+Ray,Balwyn,1425000
+Fletchers,Balwyn,3600000
+Jellis,Balwyn North,1500000
+Fletchers,Balwyn North,1500000
+Collings,Bellfield,1113000
+Woodards,Bentleigh,1630000
+Jellis,Bentleigh,1730000
+Jellis,Bentleigh,2260000
+Woodards,Bentleigh East,1160000
+Jellis,Bentleigh East,1000000
+C21,Berwick,530000
+Flannagan,Briar Hill,785000
+Nelson,Brunswick,1150000
+Greg,Camberwell,1700000
+Woodards,Carlton North,1650000
+Gary,Caulfield South,1655000
+Buxton,Cheltenham,1255000
+Chisholm,Cheltenham,860000
+Buxton,Clayton South,955000
+Nelson,Coburg,1222000
+Nelson,Coburg,990000
+RW,Coolaroo,555000
+RW,Coolaroo,451000
+Barry,Craigieburn,473000
+Ray,Craigieburn,720000
+Ray,Craigieburn,568000
+Jellis,Croydon,880000
+Ray,Croydon,855000
+Jellis,Croydon North,1175000
+YPA,Dallas,506000
+Fletchers,Doncaster,1351000
+Barry,Doncaster East,1330000
+hockingstuart,Donvale,1070000
+Biggin,Elsternwick,3050000
+Win,Endeavour Hills,685000
+Ray,Epping,621000
+Love,Epping,631000
+Stockdale,Fawkner,840000
+Brad,Fawkner,775000
+Jellis,Footscray,860000
+Greg,Footscray,1450000
+Douglas,Footscray,868000
+Harcourts,Forest Hill,1190000
+Buxton,Forest Hill,1088000
+Raine,Gisborne,820000
+Brad,Gladstone Park,610000
+Ray,Glen Waverley,2670000
+Barry,Glenroy,752000
+Morrison,Greensborough,700000
+Buckingham,Greensborough,652000
+Buxton,Hampton,2095000
+RT,Hawthorn,2800000
+Greg,Hoppers Crossing,525000
+YPA,Hoppers Crossing,565000
+Barry,Hughesdale,1250000
+YPA,Jacana,570000
+YPA,Keilor Downs,700000
+Jellis,Keilor East,915000
+Barry,Keilor East,990000
+Nelson,Keilor East,700000
+Marshall,Kew,1720000
+Jellis,Kew East,2000000
+Jellis,Kew East,1850000
+HAR,Lalor,685500
+Nelson,Maribyrnong,1190000
+Ryder,Melton South,450000
+hockingstuart,Melton West,530000
+hockingstuart,Melton West,630000
+Barry,Mentone,950000
+Chisholm,Mentone,1800000
+Barry,Mernda,460000
+HAR,Mernda,517500
+Greg,Middle Park,6370000
+RW,Mill Park,660000
+Ray,Mitcham,1104000
+Stockdale,Montmorency,841000
+Fletchers,Mount Waverley,1775000
+@Realty,Mount Waverley,1650000
+Fletchers,Mount Waverley,2820000
+Noel,Mount Waverley,1375000
+Ray,Mulgrave,1000000
+Williams,Newport,1017500
+Nelson,Northcote,1150000
+Woodards,Northcote,2750000
+Brad,Oak Park,780000
+Ray,Oakleigh,1828000
+iTRAK,Pakenham,493000
+Brad,Pascoe Vale,710000
+Point,Point Cook,711500
+hockingstuart,Point Cook,800000
+Greg,Port Melbourne,2926000
+Buxton,Port Melbourne,2160000
+hockingstuart,Preston,850000
+Ray,Reservoir,725000
+Biggin,Richmond,1750000
+Jellis,Richmond,1100000
+Harcourts,Rowville,865000
+Ray,Roxburgh Park,675000
+Eview,Seaford,890000
+HAR,South Morang,710000
+The,South Morang,520000
+Considine,Strathmore,1310000
+Brad,Strathmore,1310000
+RW,Sunshine North,750000
+S&L,Sunshine West,590000
+Barry,Sunshine West,765000
+Pagan,Taylors Lakes,780000
+Ray,Thomastown,850000
+hockingstuart,Thomastown,720000
+Jellis,Thornbury,1370000
+Jason,Tullamarine,735000
+Miles,Viewbank,1240000
+iTRAK,Wantirna,1003000
+iTRAK,Wantirna South,945000
+hockingstuart,Werribee,510000
+Alexkarbon,West Melbourne,2371000
+YPA,Westmeadows,620000
+Barry,Wheelers Hill,1170000
+Barry,Wheelers Hill,1540000
+Greg,Williamstown,2350000
+Sweeney,Yarraville,1200000
+Barlow,Altona,935000
+hockingstuart,Altona,815000
+Barlow,Altona North,451500
+McDonald,Ascot Vale,825000
+Brad,Ascot Vale,425500
+Jellis,Ascot Vale,1306000
+Fletchers,Ashwood,1420000
+Buxton,Aspendale,805000
+Moonee,Avondale Heights,934000
+Jellis,Balwyn,2330000
+Ray,Bayswater North,762000
+Jellis,Blackburn,1070000
+Hoskins,Blackburn North,706000
+iTRAK,Boronia,785000
+iTRAK,Boronia,950000
+hockingstuart,Brighton,2800000
+Greg,Brighton,290000
+YPA,Broadmeadows,570500
+YPA,Broadmeadows,631000
+hockingstuart,Brooklyn,372100
+Nelson,Brunswick,1350000
+Jellis,Brunswick East,702500
+Jellis,Brunswick West,275000
+Nelson,Brunswick West,835000
+Darren,Bundoora,710000
+Ray,Carnegie,1840000
+Ray,Carnegie,430000
+O'Brien,Carrum,495000
+Harcourts,Carrum Downs,403500
+hockingstuart,Caulfield North,361000
+Jellis,Chadstone,960000
+Nelson,Coburg,900000
+Jellis,Collingwood,365000
+Ray,Craigieburn,310000
+hockingstuart,Croydon,662000
+YPA,Delahey,560000
+Buxton,Dingley Village,802000
+Ray,Dingley Village,800000
+Ray,Dingley Village,854000
+Barry,Donvale,920000
+Fletchers,Donvale,904000
+Miles,Eaglemont,1440000
+Barry,Eltham,1054000
+O'Brien,Endeavour Hills,625000
+Love,Epping,600000
+Ray,Epping,630000
+Iconek,Epping,1012000
+Ray,Epping,565000
+McDonald,Essendon,502500
+Jellis,Essendon West,1410000
+Ray,Ferntree Gully,748888
+Noel,Ferntree Gully,850000
+hockingstuart,Fitzroy,490000
+Sweeney,Footscray,395000
+Village,Footscray,991000
+Ray,Forest Hill,945000
+Ray,Forest Hill,1020000
+Aquire,Frankston,506000
+Ray,Frankston,755000
+Raine,Gisborne,426000
+Woodards,Glen Iris,540000
+Ray,Glen Waverley,960000
+Harcourts,Glen Waverley,1116500
+Darren,Greensborough,585000
+Darren,Greensborough,800000
+Fletchers,Greensborough,896000
+Marshall,Hawthorn,1150000
+Marshall,Hawthorn,1100000
+Fletchers,Heathmont,525000
+Barry,Heidelberg Heights,650000
+Harcourts,Heidelberg West,580000
+Reliance,Hoppers Crossing,536500
+Brad,Keilor Downs,705000
+Brad,Keilor Downs,590000
+Nelson,Keilor East,920000
+Nelson,Keilor East,1100000
+Whiting,Keilor East,840000
+Edward,Kensington,535000
+Marshall,Kew,1080000
+hockingstuart,Keysborough,575000
+Jas,Maidstone,930000
+Jas,Maidstone,650000
+Jas,Maidstone,702000
+Woodards,Maribyrnong,440000
+RW,Meadow Heights,520000
+Stockdale,Meadow Heights,520000
+RW,Meadow Heights,515000
+Galldon,Melbourne,387000
+hockingstuart,Melton South,336000
+Raine,Melton South,426000
+Harcourts,Mill Park,775500
+Love,Mill Park,726000
+Ray,Mill Park,710000
+Buckingham,Montmorency,820000
+Jellis,Moonee Ponds,1425000
+Buxton,Moorabbin,935000
+Jellis,Mount Waverley,2248000
+Buxton,Mount Waverley,1260000
+Ray,Mulgrave,960000
+Woodards,Murrumbeena,956000
+Only,Narre Warren,605000
+Nelson,Niddrie,950000
+Nelson,North Melbourne,541000
+Ray,Northcote,1307500
+One,Notting Hill,1211000
+Buxton,Oakleigh,1610000
+Ray,Oakleigh East,1150000
+C21,Pakenham,435000
+Hodges,Parkdale,1190000
+Barry,Parkdale,503750
+hockingstuart,Point Cook,690000
+hockingstuart,Point Cook,596000
+hockingstuart,Point Cook,698000
+hockingstuart,Prahran,500000
+Ray,Reservoir,953000
+Nelson,Reservoir,468000
+Raine,Reservoir,710000
+Barry,Reservoir,502000
+hockingstuart,Richmond,800000
+Noel,Ringwood East,710000
+Barry,Rowville,735000
+Harcourts,Rowville,755000
+Raine,Roxburgh Park,537000
+hockingstuart,Seaford,386000
+U,Seaford,763000
+Buxton,Seaford,768000
+Greg,South Melbourne,2800000
+Harcourts,South Morang,345000
+hockingstuart,South Yarra,666000
+RW,St Albans,610000
+Raine,St Albans,550000
+Westside,St Albans,520000
+McGrath,St Kilda,470000
+Jas,Sunshine,860000
+Barry,Taylors Lakes,853000
+Marshall,Toorak,1140000
+McGrath,Travancore,341500
+Philip,Vermont,1111500
+Noel,Wantirna South,1045000
+Ray,Wantirna South,622000
+Gardiner,Warrandyte,826000
+Darren,Watsonia,655000
+Greg,Werribee,505000
+Greg,Werribee,335000
+Jas,West Footscray,700000
+YPA,Westmeadows,800000
+Ray,Wheelers Hill,1090000
+Williams,Williamstown,1920000
+hockingstuart,Wollert,530000
+Village,Yarraville,982500
+Jas,Yarraville,1230000
+RT,Armadale,1800000
+Jellis,Armadale,2200000
+Nelson,Brunswick,770000
+Walshe,Brunswick,279500
+Nelson,Brunswick,1800000
+Nelson,Brunswick,1350000
+Nelson,Brunswick,1320000
+Nelson,Brunswick,825000
+Nelson,Brunswick,1261000
+Jellis,Brunswick,1045000
+Jellis,Brunswick,1044000
+Barry,Aberfeldie,1650000
+Marshall,Armadale,1715000
+Jellis,Ashburton,1555000
+Jellis,Balwyn,2730000
+Buxton,Beaumaris,3778000
+Jellis,Bentleigh,2210000
+Jellis,Bentleigh East,1070000
+Jellis,Blackburn,1900000
+Noel,Blackburn,1850000
+Ray,Blackburn South,1100000
+hockingstuart,Bonbeach,1830000
+Fletchers,Boronia,700000
+Douglas,Braybrook,840000
+Marshall,Brighton,1342000
+Buxton,Brighton,1960000
+Nelson,Brunswick,911000
+Jellis,Brunswick,1820000
+Nelson,Brunswick East,950000
+Jellis,Bulleen,1225000
+Barry,Bundoora,1505000
+Ray,Bundoora,730000
+Noel,Camberwell,2835000
+Jellis,Camberwell,2450000
+Woodards,Carnegie,850000
+Ray,Carnegie,1508000
+Ray,Chelsea,875000
+Ray,Cheltenham,1201000
+Buxton,Clayton,810000
+Nelson,Coburg,975000
+Brad,Coburg,880000
+Peter,Coburg North,841000
+Chambers,Collingwood,931000
+hockingstuart,Craigieburn,492000
+RW,Croydon,858000
+O'Brien,Dandenong North,682000
+Buxton,Dingley Village,1281000
+McGrath,Doncaster,751000
+Parkes,Doncaster East,1330000
+C21,Doveton,469000
+Fletchers,Eltham,915000
+Brad,Essendon,1150000
+McGrath,Fairfield,1255000
+Love,Fairfield,1300000
+Eview,Frankston South,760000
+hockingstuart,Glen Waverley,1275000
+Barry,Glen Waverley,1480000
+Morrison,Greensborough,922000
+Morrison,Greensborough,865000
+hockingstuart,Greenvale,650000
+Follett,Hampton,1820000
+Nick,Hampton,1450000
+Jellis,Hawthorn,2325000
+Marshall,Hawthorn,1450000
+Barry,Hillside,628000
+Prof.,Hillside,645500
+One,Hoppers Crossing,525000
+Raine,Jacana,626000
+Barry,Keilor,840000
+Nelson,Keilor East,1230000
+Jellis,Kew East,1325000
+Lindellas,Kew East,1975000
+Jas,Kingsville,1140000
+Jas,Kingsville,1000000
+Marshall,Malvern,2750000
+YPA,Meadow Heights,370000
+hockingstuart,Mentone,995000
+Love,Mill Park,900000
+Marshall,Mont Albert,2500000
+Nelson,Moonee Ponds,1200000
+Jellis,Moorabbin,828000
+LLC,Mount Waverley,2420000
+Harcourts,Mount Waverley,1335000
+Jellis,Mount Waverley,1480000
+RW,Mulgrave,1100000
+Harcourts,Narre Warren,792500
+Williams,Newport,1262000
+Sweeney,Newport,1210000
+Nelson,Niddrie,1186000
+Jellis,Northcote,1320000
+Nelson,Oak Park,725000
+Nelson,Pascoe Vale,850000
+LJ,Point Cook,765000
+hockingstuart,Point Cook,635000
+Greg,Port Melbourne,1960000
+Ray,Reservoir,465000
+Nelson,Reservoir,920000
+Jellis,Richmond,1500000
+Fletchers,Ringwood East,746000
+Raine,Roxburgh Park,380000
+Buxton,Sandringham,1915000
+One,Scoresby,962000
+Greg,South Melbourne,855000
+YPA,Sunbury,405000
+YPA,Sunbury,482000
+Leeburn,Sunbury,436000
+Douglas,Sunshine North,665000
+Garvey,Surrey Hills,1810000
+Woodards,Surrey Hills,2230000
+Jellis,Templestowe,1930000
+HAR,Thomastown,750000
+McGrath,Thornbury,1605000
+Jellis,Viewbank,1009000
+Ray,Wallan,366000
+Ray,Wantirna South,1440000
+Ray,Wantirna South,1060000
+Buckingham,Watsonia,792000
+Reliance,Werribee,470000
+YPA,Werribee,515000
+YPA,Werribee,603500
+Jas,West Footscray,870000
+Douglas,West Footscray,1060000
+Joseph,West Melbourne,1500000
+hockingstuart,Williams Landing,555000
+Jellis,Windsor,1425000
+Jas,Yarraville,1190000
+Biggin,Abbotsford,955000
+Biggin,Abbotsford,1200000
+Barry,Altona Meadows,783000
+Rendina,Ascot Vale,1550000
+Marshall,Balwyn North,2350000
+Buxton,Beaumaris,2082000
+Buxton,Beaumaris,1730000
+Jellis,Bentleigh East,1100000
+Jellis,Bentleigh East,1160000
+Jellis,Bentleigh East,1430000
+Nelson,Blackburn North,990000
+Fletchers,Blackburn South,1050000
+Noel,Blackburn South,1250000
+Jellis,Boronia,765000
+Nick,Brighton East,2745000
+Buxton,Brighton East,1420000
+Nick,Brighton East,3300000
+YPA,Broadmeadows,620000
+Jellis,Brunswick,1585000
+Fletchers,Bulleen,1198000
+Jellis,Burnley,1940000
+Lindellas,Burwood,1320000
+Barry,Burwood East,1250000
+RT,Camberwell,2650000
+Marshall,Camberwell,2420000
+Garvey,Camberwell,1550000
+Nelson,Carlton,650000
+YPA,Caroline Springs,580000
+O'Brien,Cheltenham,1150000
+Ray,Cheltenham,1360000
+C21,Clarinda,1150000
+Nelson,Coburg,1030000
+Nelson,Coburg,1085000
+Nelson,Coburg,740000
+Barry,Coburg,1320000
+Skad,Coolaroo,495000
+Barry,Craigieburn,515000
+Barry,Craigieburn,525000
+Barry,Craigieburn,562750
+Barry,Craigieburn,495000
+Ray,Craigieburn,655000
+Ray,Craigieburn,535000
+Fletchers,Croydon,800000
+Ray,Croydon North,665500
+McGrath,Croydon North,610000
+Jellis,Croydon South,702000
+Noel,Croydon South,1000000
+McLennan,Dandenong,570000
+Stockdale,Dandenong North,590000
+YPA,Delahey,615000
+Stockdale,Derrimut,805000
+Jellis,Donvale,1950000
+Barry,Doreen,580000
+Barry,Doreen,585500
+Barry,Epping,616000
+Brad,Fawkner,725000
+Brad,Fawkner,800500
+McGrath,Fawkner,700000
+O'Brien,Frankston,823000
+Purplebricks,Frankston South,730000
+Harcourts,Glen Waverley,1758000
+Ray,Glen Waverley,1459000
+Harcourts,Glen Waverley,1700000
+Barry,Greenvale,700000
+Nelson,Hadfield,730000
+Buxton,Hampton East,1710000
+Jellis,Hawthorn,1600000
+Marshall,Hawthorn East,2800000
+Ray,Hoppers Crossing,571000
+Barry,Hoppers Crossing,610000
+Prof.,Keilor Downs,650000
+Nelson,Keilor East,1750000
+Alexkarbon,Keilor East,901500
+Nelson,Keilor East,763000
+Marshall,Kew East,2025000
+Love,Lalor,580000
+Love,Lalor,540000
+Jellis,Malvern,2360000
+Marshall,Malvern East,1960000
+Nelson,Maribyrnong,1300000
+Biggin,Maribyrnong,1010000
+Buxton,McKinnon,1200000
+YPA,Meadow Heights,525000
+Ryder,Melton,350000
+YPA,Melton,415000
+Ryder,Melton South,466000
+Ryder,Melton South,892000
+hockingstuart,Melton West,568000
+Stockdale,Mernda,687000
+Stockdale,Mickleham,740000
+Ray,Mill Park,702000
+HAR,Mill Park,785000
+hockingstuart,Mitcham,1050000
+Philip,Mitcham,985000
+Jellis,Montmorency,850000
+Jellis,Moonee Ponds,1550000
+Buxton,Moorabbin,1050000
+Barry,Mount Waverley,940000
+Harcourts,Mount Waverley,1530000
+Barry,Mulgrave,825000
+Jas,Newport,868100
+Ray,Oakleigh,1320000
+Buxton,Parkdale,1240000
+Barry,Pascoe Vale,755000
+Point,Point Cook,815000
+Point,Point Cook,766000
+Cayzer,Port Melbourne,1200000
+Jellis,Prahran,1500000
+Ray,Reservoir,880000
+Nelson,Reservoir,980000
+hockingstuart,Ringwood East,860000
+Hodges,Sandringham,1720000
+Buxton,Sandringham,2115000
+Buxton,Sandringham,1800000
+Sweeney,Seddon,885000
+Jas,Seddon,1170000
+Greg,South Melbourne,2200000
+Thomson,South Yarra,3030000
+Jas,Spotswood,1222000
+Le,Springvale,820000
+Nelson,St Albans,694000
+Brad,Strathmore,1300000
+Considine,Strathmore,880000
+Hodges,Strathmore,917000
+Jellis,Templestowe,1506666
+Fletchers,Templestowe,1390000
+Jellis,Templestowe Lower,1600000
+Nelson,Thornbury,1400000
+McGrath,Thornbury,903000
+Benlor,Truganina,574000
+hockingstuart,Werribee,660000
+Barry,Werribee,495000
+Ray,Werribee,720000
+hockingstuart,Yarraville,970000
+Ray,Albion,750000
+Barry,Albion,781000
+Greg,Altona North,750000
+RT,Armadale,1899000
+Brad,Ascot Vale,838000
+Jellis,Ascot Vale,1610000
+Nelson,Ascot Vale,1310000
+Jellis,Ashwood,1150000
+hockingstuart,Aspendale,940000
+Area,Aspendale Gardens,811250
+Jellis,Balwyn,1720000
+Fletchers,Balwyn,2801000
+hockingstuart,Balwyn North,3200000
+Jellis,Balwyn North,1450000
+Buxton,Bentleigh,2000000
+Jellis,Bentleigh,2275000
+Woodards,Bentleigh,1100000
+Buxton,Bentleigh East,1125000
+Jellis,Bentleigh East,1250000
+Noel,Blackburn North,900000
+Woodards,Blackburn South,1367000
+Buxton,Bonbeach,1050000
+Noel,Boronia,740000
+Buxton,Box Hill,4600000
+GL,Braybrook,780000
+Marshall,Brighton,3000000
+Marshall,Brighton East,2350000
+Woodards,Brighton East,1380000
+YPA,Broadmeadows,540000
+YPA,Broadmeadows,595000
+Brad,Brunswick,1520000
+Nelson,Brunswick,955000
+Nelson,Brunswick,1450000
+Peter,Brunswick,1105000
+Love,Bundoora,784000
+Barry,Bundoora,760000
+Ray,Bundoora,962250
+Buxton,Burwood,1217000
+Barry,Cairnlea,734000
+Marshall,Camberwell,2100000
+Marshall,Camberwell,1430000
+Marshall,Camberwell,2100000
+Collins,Carlton,1750000
+O'Brien,Carrum Downs,631000
+Gary,Caulfield South,2050000
+Gary,Caulfield South,1490000
+Barry,Cheltenham,1111000
+Greg,Cheltenham,1200000
+Darras,Clayton,1870000
+Nelson,Clifton Hill,1040000
+Peter,Coburg,905000
+Love,Coburg,900000
+Nelson,Coburg North,801000
+Barry,Coburg North,830000
+HAR,Craigieburn,695000
+Ray,Craigieburn,770000
+Ray,Craigieburn,540000
+Ray,Craigieburn,590000
+Jellis,Croydon,664000
+McGrath,Croydon,1165000
+Stockdale,Dallas,620000
+Barry,Dallas,520000
+Del,Dandenong,1400000
+Wyndham,Deer Park,580500
+Barry,Diamond Creek,750000
+Prof.,Diggers Rest,550000
+Ray,Dingley Village,1000000
+Jellis,Doncaster,1160000
+Barry,Doncaster,1600000
+Jellis,Doncaster,1310000
+Jellis,Doncaster,1320000
+Barry,Doncaster East,1385000
+Barry,Donvale,900000
+Barry,Donvale,800000
+Harcourts,Doreen,530000
+Ray,Epping,720500
+HAR,Epping,680000
+HAR,Epping,670000
+Raine,Epping,685000
+hockingstuart,Epping,649000
+Rendina,Essendon,1727000
+Nelson,Essendon,1210000
+Barry,Essendon,1650000
+McDonald,Essendon,2100000
+Miles,Fairfield,1360000
+HAR,Fawkner,945000
+Schroeder,Ferntree Gully,860000
+Ray,Ferntree Gully,851000
+Nelson,Fitzroy North,1700000
+hockingstuart,Fitzroy North,1875000
+Nelson,Flemington,1120000
+Jas,Footscray,850000
+Barry,Frankston,686000
+Ray,Gladstone Park,700000
+hockingstuart,Glen Huntly,1900000
+Nelson,Glenroy,880000
+Stockdale,Glenroy,550000
+Nelson,Gowanbrae,665000
+Nelson,Gowanbrae,770000
+Morrison,Greensborough,1120000
+Buckingham,Greensborough,808000
+Ray,Greensborough,930000
+Darren,Greensborough,931000
+Ray,Greenvale,588000
+Jason,Greenvale,800000
+Ray,Greenvale,677000
+Ray,Greenvale,703000
+Barry,Hadfield,685000
+Kay,Hawthorn,3500000
+Kay,Hawthorn East,3575000
+Fletchers,Heathmont,1050000
+Nelson,Heidelberg Heights,1320000
+Barry,Hillside,650000
+Prof.,Hillside,640000
+Prof.,Hillside,550000
+Greg,Hoppers Crossing,482500
+hockingstuart,Hoppers Crossing,530000
+YPA,Hoppers Crossing,473000
+Wyndham,Hoppers Crossing,475000
+Ray,Hughesdale,815000
+RW,Jacana,615000
+Barry,Kealba,668500
+Nelson,Keilor East,1080000
+Jellis,Kew,1925000
+Marshall,Kew,2600000
+Jellis,Kew,3900000
+Jellis,Kew East,2400000
+Frank,Kings Park,585000
+Village,Kingsville,1480000
+Biggin,Maidstone,830000
+RT,Malvern,6300000
+Sweeney,Maribyrnong,527000
+Barry,Meadow Heights,480000
+hockingstuart,Melton South,443000
+FN,Melton West,465000
+Buxton,Mentone,1535000
+HAR,Mernda,720000
+Cayzer,Middle Park,2650000
+Ray,Mill Park,620000
+Marshall,Mont Albert,2300000
+Jellis,Moonee Ponds,1835000
+McDonald,Moonee Ponds,1800000
+McGrath/First,Mount Waverley,1000000
+Barry,Mount Waverley,1400000
+McGrath,Mount Waverley,1500000
+Williams,Newport,1680000
+Greg,Newport,850000
+hockingstuart,Newport,1030000
+Nelson,Niddrie,1340000
+Nelson,Niddrie,1300000
+Peter,North Melbourne,1270000
+Nelson,Northcote,940000
+McGrath,Northcote,1225000
+Jellis,Northcote,2125000
+Buxton,Parkdale,1100000
+Jellis,Pascoe Vale,863000
+Buxton,Patterson Lakes,975000
+Barry,Point Cook,830000
+Biggin,Prahran,1350000
+Ray,Preston,635000
+Nelson,Preston,1000000
+McGrath,Preston,1250000
+Ray,Reservoir,445000
+Biggin,Richmond,1798000
+Jellis,Richmond,1150000
+hockingstuart,Richmond,2210000
+Ray,Ringwood,955000
+HAR,Roxburgh Park,600000
+Harcourts,Seaford,955000
+Jas,Seddon,1020000
+Jas,South Kingsville,1030000
+Barry,South Morang,702000
+Jellis,South Yarra,2160000
+LJ,Springvale,1120000
+Barry,St Albans,475000
+Marshall,St Kilda,3600000
+Nelson,Strathmore,3300000
+One,Sunbury,592000
+One,Sunbury,545000
+Douglas,Sunshine North,600000
+Douglas,Sunshine North,695000
+Barry,Sunshine West,760000
+Douglas,Sunshine West,535000
+Barry,Sunshine West,510000
+hockingstuart,Surrey Hills,2665000
+YPA,Tarneit,465000
+Barry,Taylors Hill,720000
+YPA,Taylors Hill,655000
+Fletchers,Templestowe,1370000
+Fletchers,Templestowe,1496000
+Jellis,Thornbury,1530000
+Love,Thornbury,816000
+Woodards,Thornbury,1185000
+RT,Toorak,2300000
+Nelson,Travancore,972000
+Ray,Vermont South,1120000
+Miles,Viewbank,1150000
+Harcourts,Wantirna South,980000
+Barry,Warrandyte,3250000
+Ray,Werribee,491500
+Purplebricks,Werribee,580000
+Greg,Werribee,430000
+Jas,West Footscray,1230000
+Williams,Williamstown,1600000
+Williams,Williamstown,1150000
+Williams,Williamstown,1150000
+hockingstuart,Wollert,600000
+HAR,Wollert,615000
+Sweeney,Wyndham Vale,535000
+hockingstuart,Wyndham Vale,421000
+hockingstuart,Wyndham Vale,510000
+Barry,Yallambie,825000
+Village,Yarraville,1125000
+Jas,Yarraville,1200000
+hockingstuart,Abbotsford,480000
+Jellis,Abbotsford,750000
+Brad,Airport West,730000
+Bells,Albion,820000
+Sweeney,Altona,670000
+Williams,Altona,765000
+hockingstuart,Altona North,870000
+Kay,Armadale,3200000
+Rendina,Ascot Vale,1750000
+Jellis,Ashwood,1680000
+Purplebricks,Ashwood,860000
+Moonee,Avondale Heights,750000
+Ray,Balwyn,2380000
+hockingstuart,Balwyn,2100000
+RT,Balwyn,3050000
+RT,Balwyn North,1557000
+Jellis,Balwyn North,2050000
+Schroeder,Bayswater,520000
+Biggin,Bayswater,925000
+Ray,Bayswater North,616000
+hockingstuart,Bentleigh,2700000
+Buxton,Bentleigh East,1525000
+hockingstuart,Bentleigh East,1330000
+C21,Berwick,608500
+Hodges,Black Rock,879000
+Noel,Blackburn North,1280000
+Barry,Briar Hill,710500
+Nick,Brighton East,2100000
+Barry,Broadmeadows,310000
+Jellis,Brunswick,510000
+Raine,Brunswick,1925000
+Woodards,Brunswick,890000
+Nelson,Brunswick,1500000
+Jellis,Brunswick West,312000
+Nelson,Brunswick West,1010000
+Ray,Bundoora,755000
+Bekdon,Burwood,918000
+Fletchers,Camberwell,2361000
+hockingstuart,Carnegie,1550000
+Ray,Carrum Downs,500000
+Gary,Caulfield South,1237000
+Ray,Cheltenham,861000
+C21,Clayton,1462000
+Ray,Craigieburn,600000
+RW,Croydon North,820000
+Buxton,Dingley Village,1100000
+Barry,Doncaster,1120000
+Philip,Doncaster East,850000
+Noel,Doncaster East,1125000
+Jellis,East Melbourne,1875000
+Caine,East Melbourne,1350000
+Biggin,Elsternwick,1460000
+Biggin,Elsternwick,550000
+Barry,Eltham,1065000
+Morrison,Eltham,977500
+hockingstuart,Elwood,810000
+Hodges,Elwood,543000
+Purplebricks,Epping,660000
+Ray,Epping,568000
+Harcourts,Epping,680000
+Barry,Essendon,580000
+Nelson,Essendon,970000
+Jellis,Essendon,1195000
+Brad,Essendon,1155000
+Frank,Essendon North,800000
+Jellis,Fawkner,1018000
+Schroeder,Ferntree Gully,1100000
+Jellis,Fitzroy,1394000
+Trimson,Footscray,240000
+Burnham,Footscray,310000
+McDonald,Gisborne,540000
+Barry,Gladstone Park,691000
+VICProp,Glen Waverley,3056000
+Jellis,Glen Waverley,2650000
+Harcourts,Glen Waverley,655000
+Harcourts,Glen Waverley,1550000
+Stockdale,Glenroy,780000
+Eview,Glenroy,780000
+Nelson,Gowanbrae,945000
+Barry,Greenvale,645000
+REMAX,Hallam,601000
+Buxton,Hampton,970000
+Abercromby's,Hawthorn,7650000
+Domain,Hawthorn,375000
+Jellis,Hawthorn,1080000
+Noel,Hawthorn East,2855000
+Kay,Hawthorn East,3255000
+Miles,Heidelberg,828000
+Nelson,Heidelberg,1230000
+Victory,Heidelberg Heights,590000
+Ray,Huntingdale,1145000
+Sweeney,Keilor Downs,550000
+Nelson,Kensington,730000
+Rendina,Kensington,392000
+Hodges,Kensington,1150000
+Biggin,Kensington,1415000
+Marshall,Kew,3175000
+Harcourts,Lalor,638000
+Marshall,Malvern East,2520000
+Frank,Maribyrnong,301000
+MICM,Melbourne,740000
+Ryder,Melton,420000
+Obrien,Mentone,1051000
+Buxton,Mentone,660000
+Ray,Mill Park,865000
+Noel,Mitcham,1302000
+Noel,Mitcham,800000
+McDonald,Moonee Ponds,1850000
+Barry,Moonee Ponds,222000
+iTRAK,Mooroolbark,581000
+Ray,Mordialloc,1150000
+McGrath,Mount Waverley,1352000
+Jellis,Mount Waverley,1728000
+Woodards,Mulgrave,902000
+hockingstuart,Murrumbeena,1561000
+Nelson,Niddrie,1300000
+Barry,Notting Hill,840000
+hockingstuart,Nunawading,1060000
+Nelson,Oak Park,840000
+Rendina,Oak Park,1071888
+Eview,Oak Park,790000
+Biggin,Oakleigh East,820000
+hockingstuart,Oakleigh South,1218500
+Buxton,Ormond,695000
+Buxton,Parkdale,940000
+Buxton,Parkdale,1300000
+Nelson,Pascoe Vale,1199000
+Marshall,Port Melbourne,1388000
+Castran,Prahran,440000
+RT,Prahran,2300000
+McGrath,Preston,840000
+Barry,Reservoir,510000
+Barry,Reservoir,780000
+Jellis,Richmond,1255000
+Biggin,Richmond,1275000
+Biggin,Richmond,1120000
+Biggin,Richmond,1190000
+Marshall,Richmond,1425000
+Barry,Ringwood East,1175000
+Carter,Ringwood North,755000
+Jellis,Rowville,1005800
+Ray,Skye,555698
+Greg,South Melbourne,1250000
+Greg,South Melbourne,407500
+Greg,Southbank,642500
+Ray,St Albans,460000
+S&L,St Albans,610000
+Sweeney,St Albans,500000
+hockingstuart,St Kilda,615000
+Raine,Sunbury,455000
+GL,Sunshine,810000
+Douglas,Sunshine,805000
+hockingstuart,Surrey Hills,807000
+YPA,Sydenham,471000
+Barry,Taylors Hill,558000
+Barry,Taylors Lakes,780000
+Barry,Templestowe Lower,1240000
+Love,Thornbury,756000
+Noel,Vermont South,1050000
+Nelson,Viewbank,940000
+YPA,Werribee,830000
+Marshall,Armadale,5525000
+Nelson,Brunswick,1050000
+Nelson,Brunswick,1691500
+Jellis,Brunswick,1075000
+Jellis,Armadale,440000
+Nelson,Brunswick,501000
+Rendina,Brunswick,1260000
+Nelson,Brunswick,1650000
+Brad,Brunswick,601000
+Nelson,Brunswick,1015000
+Jellis,Armadale,1300000
+Jellis,Brunswick,625000
+Collins,Brunswick,1700000
+Jellis,Brunswick,435000
+Nelson,Aberfeldie,1825000
+Ray,Altona Meadows,541500
+Nelson,Ascot Vale,1325000
+Rendina,Ascot Vale,1750000
+Nelson,Avondale Heights,1068000
+Noel,Balwyn North,4050000
+Buxton,Bentleigh East,1640000
+Bowman,Botanic Ridge,750000
+Buxton,Brighton,5150000
+Buxton,Brighton East,950000
+buyMyplace,Brighton East,2800000
+Nelson,Brunswick,1470000
+Jellis,Brunswick East,1475000
+Nelson,Brunswick East,1895000
+Pagan,Brunswick West,420500
+Barry,Bulleen,1225000
+Ray,Bundoora,820500
+Fletchers,Burwood,1300000
+Buxton,Burwood East,970000
+Marshall,Camberwell,2230000
+Marshall,Canterbury,3230000
+hockingstuart,Carrum,980000
+Harcourts,Carrum Downs,560000
+McGrath,Chadstone,1150000
+Hodges,Cheltenham,1495000
+Nelson,Coburg,970000
+Raine,Coburg,935000
+Nelson,Collingwood,1460000
+Stockdale,Craigieburn,600000
+HAR,Craigieburn,468000
+Barry,Craigieburn,616000
+Barry,Craigieburn,583000
+Barry,Craigieburn,470000
+Ray,Craigieburn,615000
+Stockdale,Dallas,475000
+YPA,Dallas,505500
+Jellis,Doncaster East,905000
+Barry,Donvale,1440000
+Morrison,Doreen,570000
+Chisholm,Elwood,3200000
+Nelson,Essendon,1110000
+Frank,Essendon,2455000
+Brad,Essendon,2500000
+Nelson,Essendon North,820000
+Stockdale,Fawkner,645000
+Harcourts,Fawkner,542000
+Stockdale,Ferntree Gully,725000
+buyMyplace,Ferntree Gully,940000
+Nelson,Fitzroy,1305000
+Jellis,Fitzroy North,1450000
+Nelson,Flemington,1175000
+Jellis,Footscray,1420000
+hockingstuart,Frankston North,595000
+Barry,Gladstone Park,650000
+Jellis,Glen Iris,2625000
+Jellis,Glen Iris,1845000
+Kay,Glen Iris,2640000
+LLC,Glen Waverley,2380000
+Ray,Glen Waverley,2202000
+Morrison,Greensborough,750000
+Barry,Greenvale,715000
+Barry,Greenvale,1020000
+Marshall,Hampton,4500000
+Woodards,Heathmont,820000
+Haughton,Heidelberg Heights,705000
+Fletchers,Heidelberg West,645000
+Barry,Hillside,680000
+hockingstuart,Hoppers Crossing,693000
+Charter,Keilor East,855000
+Rendina,Kensington,939000
+RT,Kew,3385000
+Marshall,Kew,1625000
+HAR,Lalor,591000
+Biggin,Maribyrnong,1725000
+O'Brien,Mentone,1460000
+hockingstuart,Albanvale,506000
+HAR,Ardeer,730000
+Jellis,Armadale,1460000
+Marshall,Armadale,1726000
+Jellis,Ashburton,1920000
+Jellis,Ashwood,1575000
+hockingstuart,Balwyn North,2000000
+Barry,Balwyn North,2270000
+Fletchers,Balwyn North,1890000
+Jellis,Bentleigh,1895000
+Buxton,Bentleigh East,1280000
+Jellis,Bentleigh East,1595000
+Jellis,Brighton,1850000
+Jellis,Brunswick East,320000
+Purplebricks,Bulleen,1240000
+Barry,Bundoora,1234000
+Fletchers,Burwood East,1000000
+Raine,Campbellfield,650000
+Gary,Caulfield South,2450000
+hockingstuart,Chelsea Heights,710000
+Greg,Cheltenham,955000
+Buxton,Cheltenham,1230000
+Gary,Clarinda,883300
+C21,Clarinda,790000
+Nelson,Coburg,880000
+Nelson,Coburg,1070000
+Nelson,Coburg,1500000
+Brad,Coburg,1085000
+YPA,Craigieburn,582500
+Ray,Craigieburn,480000
+Barry,Craigieburn,523000
+Ray,Craigieburn,485000
+RW,Croydon,1152000
+Barry,Dallas,475000
+Barry,Dingley Village,970000
+Barry,Donvale,1200000
+Barry,Donvale,988000
+Eview,Edithvale,875000
+Biggin,Elsternwick,2105000
+Biggin,Elsternwick,2410000
+Morrison,Eltham,810000
+Barry,Eltham North,1115000
+hockingstuart,Elwood,1380000
+Nelson,Essendon,1600000
+Jellis,Fairfield,1280000
+Noel,Ferntree Gully,875000
+Nelson,Fitzroy,580000
+Jellis,Flemington,1017500
+Jas,Footscray,942000
+Kay,Glen Iris,1300000
+Jellis,Glen Iris,1307500
+Jellis,Glen Iris,1390000
+Harcourts,Glen Waverley,1310000
+Ray,Glen Waverley,1285000
+Barry,Glen Waverley,1292000
+Ray,Glenroy,831000
+YPA,Glenroy,570000
+RW,Glenroy,805000
+Nelson,Gowanbrae,931000
+Buxton,Highett,1225000
+Barry,Hillside,478000
+Reliance,Hoppers Crossing,520000
+Stockdale,Jacana,650000
+Jellis,Keilor East,1295000
+Nelson,Keilor East,1250000
+Nelson,Keilor East,986000
+Nelson,Keilor East,620000
+Edward,Kensington,841000
+Jellis,Kew,2180000
+Nelson,Kew East,2118000
+McGrath,Kilsyth,710000
+McGrath,Kilsyth,780000
+HAR,Lalor,700000
+Marshall,Malvern East,2030000
+Jellis,Malvern East,1800000
+RW,Maribyrnong,1500000
+Ryder,Melton South,460000
+Ray,Mernda,547000
+Fletchers,Montmorency,756000
+Ray,Mount Evelyn,515000
+Barry,Mount Waverley,1340000
+Barry,Niddrie,1150000
+Ray,Nunawading,1218000
+Nelson,Pascoe Vale,980000
+Nelson,Pascoe Vale,585500
+Marshall,Prahran,1390000
+Nelson,Preston,961000
+Barry,Reservoir,876000
+HAR,Reservoir,866000
+Ray,Reservoir,775500
+Ray,South Morang,597000
+YPA,St Albans,626000
+Considine,Strathmore Heights,1000000
+Douglas,Sunshine North,502500
+Douglas,Sunshine West,650000
+Barry,Templestowe,1150000
+Barry,Templestowe Lower,1280000
+Noel,Vermont,1300000
+Biggin,Vermont South,1360000
+Barry,Wantirna South,1235000
+hockingstuart,Werribee,490000
+hockingstuart,Werribee,412700
+RW,West Footscray,990000
+Jas,West Footscray,1100500
+Williams,Williamstown,2550000
+Nelson,Yallambie,1025000
+Greg,Armadale,704000
+Marshall,Armadale,620000
+Jellis,Brunswick,2500000
+Jellis,Brunswick,860000
+Jellis,Brunswick,491000
+Jellis,Airport West,1025000
+McLennan,Dandenong North,631000
+McGrath,Kilsyth,650000
+Ray,Knoxfield,935000
+Mitchell,Seaford,760000
+Barry,Wallan,430000
+Harcourts,Wantirna,975000
+Jellis,Brunswick,585000
+Nelson,Brunswick,1900000
+Nelson,Aberfeldie,2600000
+Brad,Aberfeldie,1905000
+Barry,Airport West,730000
+Nelson,Airport West,926000
+Sweeney,Albion,715000
+Jellis,Alphington,1757000
+Barry,Altona Meadows,417000
+MICM,Altona Meadows,600000
+Barlow,Altona Meadows,800000
+Nelson,Ascot Vale,1700000
+Barry,Attwood,941000
+Moonee,Avondale Heights,900000
+Marshall,Balwyn,3300000
+Noel,Balwyn,2600000
+Fletchers,Balwyn,3350000
+Fletchers,Balwyn North,1300000
+Win,Bayswater,916500
+Ray,Beaumaris,2070000
+Buxton,Bentleigh,1560000
+Buxton,Bentleigh,1250000
+Buxton,Bentleigh East,2055000
+Jellis,Bentleigh East,1420000
+Buxton,Bentleigh East,950000
+Justin,Blackburn,1300000
+Fletchers,Box Hill,1782500
+Barry,Braybrook,771000
+RW,Braybrook,785000
+Marshall,Brighton,2451000
+Gary,Brighton East,1600000
+Raine,Brookfield,538000
+Nelson,Brunswick,1530000
+Jellis,Brunswick,1075000
+Collins,Brunswick East,1326000
+HAR,Bundoora,780000
+Barry,Bundoora,918000
+Gary,Caulfield South,1590000
+Barry,Cheltenham,965000
+Nelson,Clifton Hill,912000
+Love,Coburg,1000000
+Ray,Craigieburn,615000
+McGrath,Croydon,768000
+Harcourts,Dandenong North,717000
+Barry,Doncaster East,1340000
+Jellis,Doncaster East,1310000
+Barry,Doncaster East,1468000
+Philip,Donvale,2660000
+Area,Doveton,707000
+Chisholm,Elwood,2280000
+Chisholm,Elwood,2200000
+Love,Epping,711000
+Nelson,Essendon,2520000
+Brad,Essendon West,1300000
+Jellis,Fitzroy,1625000
+Chambers,Fitzroy North,2200000
+Alexkarbon,Flemington,1270000
+Barry,Forest Hill,1159000
+Noel,Forest Hill,1134000
+hockingstuart,Frankston,740000
+Marshall,Gardenvale,1850000
+Eview,Gladstone Park,538000
+Marshall,Glen Iris,3120000
+Marshall,Glen Iris,2237500
+Barry,Glen Waverley,1439000
+Eview,Glenroy,666133
+Marshall,Hampton,2000000
+Hodges,Hampton East,990000
+hockingstuart,Heathmont,730000
+Jellis,Heidelberg West,761000
+hockingstuart,Hoppers Crossing,660000
+Barry,Hoppers Crossing,615000
+RW,Hoppers Crossing,530000
+Barry,Hoppers Crossing,580000
+hockingstuart,Hoppers Crossing,541000
+Barry,Kealba,587000
+PRDNationwide,Kurunjang,380000
+HAR,Lalor,716500
+Jellis,Malvern,3100000
+Frank,Maribyrnong,1100000
+Brad,Maribyrnong,1187000
+Biggin,Maribyrnong,970000
+Buxton,McKinnon,1720000
+RW,Meadow Heights,512000
+RW,Mernda,636000
+RW,Mernda,565000
+Barry,Mernda,802000
+Love,Mill Park,592500
+Greg,Newport,1189000
+One,Notting Hill,1100000
+Stockdale,Nunawading,735000
+Ray,Oakleigh,1315000
+Domain,Oakleigh South,962500
+Woodards,Ormond,1700000
+Greg,Parkdale,1055000
+Nelson,Pascoe Vale,780000
+Brad,Pascoe Vale,891000
+RW,Point Cook,515000
+hockingstuart,Preston,835000
+Love,Preston,440000
+Barry,Reservoir,650000
+Nelson,Reservoir,1000000
+Biggin,Richmond,1907000
+Raine,Roxburgh Park,470000
+hockingstuart,Sandringham,1675000
+Hodges,Sandringham,1300000
+hockingstuart,Seddon,1010000
+Barry,South Morang,650000
+Millership,South Morang,737500
+Kay,South Yarra,2180000
+Jellis,South Yarra,1750000
+Greg,Spotswood,1225000
+C21,Springvale,880000
+Flannagan,St Helena,870000
+Leading,Sunbury,520000
+Barry,Sunbury,515000
+S&L,Sunshine West,570000
+Marshall,Surrey Hills,2300000
+hockingstuart,Tarneit,585000
+Jellis,Templestowe,1550000
+Barry,Templestowe,1290000
+Barry,Templestowe Lower,1390000
+H,Templestowe Lower,1435000
+Jason,Tullamarine,610000
+Jason,Tullamarine,805000
+Noel,Wantirna,950000
+Noel,Wantirna South,1036000
+Nelson,Watsonia,1000000
+Jellis,Watsonia North,1405000
+Sweeney,Werribee,490000
+Greg,Werribee,470000
+Ray,Werribee,558000
+Jas,West Footscray,870000
+Barry,Westmeadows,570000
+Bekdon,Wheelers Hill,1050000
+Iconek,Wollert,730000
+Ray,Wollert,643000
+Sweeney,Yarraville,920000
+Woodards,Armadale,852000
+Jellis,Brunswick,884000
+Brad,Brunswick,480000
+Marshall,Armadale,1900000
+Jellis,Brunswick,985000
+Ray,Brunswick,1250000
+RW,Brunswick,641000
+Biggin,Abbotsford,1190000
+Raine,Aberfeldie,1680000
+hockingstuart,Altona Meadows,620000
+RT,Altona North,830000
+Sweeney,Altona North,805000
+Sweeney,Altona North,510000
+hockingstuart,Armadale,486000
+Alexkarbon,Ascot Vale,855000
+Alexkarbon,Ascot Vale,1035000
+Fletchers,Ashwood,1450000
+Buxton,Ashwood,1060000
+hockingstuart,Aspendale,970000
+Barry,Avondale Heights,750000
+Barry,Avondale Heights,800000
+hockingstuart,Balwyn North,2400000
+Fletchers,Balwyn North,1850000
+Harcourts,Beaconsfield,670000
+McGrath,Beaumaris,1850000
+Miles,Bellfield,906000
+hockingstuart,Bentleigh,410000
+hockingstuart,Bentleigh,1500000
+Fletchers,Blackburn South,874000
+Sweeney,Braybrook,560000
+YPA,Broadmeadows,450000
+Raine,Brunswick,1120000
+Jellis,Brunswick,1110000
+Nelson,Brunswick,1790000
+Ray,Brunswick East,390500
+Ray,Bundoora,999000
+Thomson,Carnegie,796000
+Eview,Carnegie,1050000
+Greg,Caulfield North,610000
+Eview,Chelsea,639000
+Barry,Cheltenham,1050000
+Nelson,Clifton Hill,640000
+Nelson,Coburg,1285000
+Nelson,Collingwood,1080000
+hockingstuart,Craigieburn,607500
+Stockdale,Craigieburn,500000
+Ray,Craigieburn,510000
+Ray,Craigieburn,592500
+Stockdale,Dandenong,669000
+Barry,Dandenong North,895000
+YPA,Delahey,505000
+Barry,Doncaster,1530000
+Barry,Doncaster East,816000
+Jellis,Doncaster East,1385000
+C21,Doveton,472500
+Kay,East Melbourne,895000
+O'Brien,Edithvale,724000
+Biggin,Elsternwick,1975000
+Biggin,Elsternwick,1200000
+McGrath,Elwood,630000
+Jellis,Essendon North,1535000
+Stockdale,Fawkner,830000
+Stockdale,Ferntree Gully,740000
+McGrath,Footscray,430000
+Sweeney,Footscray,900000
+Nelson,Footscray,1000000
+Sweeney,Footscray,891000
+McGrath,Forest Hill,1011000
+hockingstuart,Glen Iris,580000
+Marshall,Glen Iris,519500
+Harcourts,Glen Waverley,656000
+Ray,Glen Waverley,1182000
+McGrath,Glen Waverley,1000000
+Biggin,Glenroy,493000
+Stockdale,Glenroy,940000
+Nelson,Glenroy,435000
+Nelson,Hadfield,741000
+Eview,Hadfield,550000
+Buxton,Hampton,1405000
+Philip,Heathmont,1270500
+Mandy,Heathmont,751000
+Thomson,Highett,1535000
+Barry,Hillside,700000
+LJ,Hoppers Crossing,520000
+Triwest,Hoppers Crossing,650000
+LITTLE,Hughesdale,472000
+Miles,Ivanhoe,880000
+Jellis,Ivanhoe,985000
+RW,Jacana,528000
+Nelson,Keilor East,918000
+Nelson,Kew,591000
+Ray,Kings Park,565000
+hockingstuart,Kurunjang,362000
+Love,Lalor,560000
+hockingstuart,Langwarrin,447000
+Biggin,Maidstone,681000
+Sweeney,Maidstone,1005000
+Burnham,Maidstone,468000
+Biggin,Maribyrnong,640000
+YPA,Meadow Heights,420000
+hockingstuart,Melton South,326000
+Ray,Mill Park,725000
+Ray,Mitcham,1101000
+Ray,Mitcham,926000
+Brad,Moonee Ponds,362000
+Barry,Mordialloc,309000
+Win,Mount Waverley,611000
+Ray,Mulgrave,755000
+Win,Mulgrave,862000
+Ray,Mulgrave,815500
+Williams,Newport,1100000
+Nelson,Niddrie,1130000
+Brad,Niddrie,1006000
+iSell,Noble Park,445000
+iSell,Noble Park,650000
+Jellis,North Melbourne,465000
+Nelson,Northcote,1335000
+Buxton,Oakleigh South,1390000
+C21,Pakenham,643500
+Nelson,Pascoe Vale,510000
+Rendina,Pascoe Vale,550000
+Nelson,Pascoe Vale,580000
+hockingstuart,Preston,250000
+Harcourts,Preston,392000
+Woodards,Preston,505000
+Harrington,Preston,980000
+Ray,Reservoir,320000
+RW,Reservoir,617500
+Nelson,Reservoir,1282500
+Jellis,Richmond,419000
+Jellis,Richmond,1667500
+Collins,Richmond,685000
+hockingstuart,Ringwood,882500
+Philip,Ringwood,910000
+Buxton,Sandringham,1651000
+Purplebricks,Scoresby,1040000
+Noel,Scoresby,1120000
+Harcourts,South Morang,500000
+hockingstuart,South Yarra,420000
+Gary,South Yarra,460000
+Marshall,South Yarra,1340000
+iSell,Springvale South,700000
+hockingstuart,St Kilda,360000
+Nelson,Strathmore,1220000
+YPA,Sunbury,500000
+YPA,Sunbury,438000
+Sweeney,Sunshine North,650000
+Barry,Sunshine West,615000
+Purplebricks,Sydenham,740000
+hockingstuart,Tarneit,463500
+hockingstuart,Tarneit,530000
+Sweeney,Tarneit,446000
+Barry,Taylors Hill,520000
+YPA,Taylors Hill,530000
+Barry,Taylors Hill,725500
+Barry,Taylors Lakes,502000
+hockingstuart,Templestowe Lower,1215000
+Jellis,Templestowe Lower,731000
+Harcourts,Thomastown,651000
+Harcourts,Thomastown,631000
+McGrath,Thornbury,1110000
+Jellis,Toorak,735000
+Jason,Tullamarine,822000
+Fletchers,Vermont,988000
+Ray,Wantirna South,630000
+Barry,Watsonia,830000
+Ray,Watsonia North,710000
+Greg,Werribee,383000
+hockingstuart,Werribee,463000
+Biggin,Werribee,452000
+hockingstuart,Werribee,665000
+Reliance,Werribee,485000
+YPA,Werribee,510000
+Jas,West Footscray,850000
+Williams,Williamstown,1440000
+Buckingham,Yarra Glen,620000
+Sweeney,Yarraville,900000
+Village,Yarraville,1407000
+Ray,Brunswick,860000
+Chambers,Brunswick,705000
+Rendina,Aberfeldie,1830000
+Brad,Airport West,850000
+Bells,Albion,760000
+YPA,Altona Meadows,750000
+Kay,Armadale,3000000
+Jellis,Ashburton,1210000
+Marshall,Balwyn,2580000
+iTRAK,Bayswater North,724000
+Woodards,Bentleigh,1410000
+Buxton,Bentleigh East,1020000
+Fletchers,Blackburn North,1475000
+McGrath,Blackburn South,1229000
+hockingstuart,Bonbeach,965000
+Philip,Box Hill,653000
+Jellis,Brunswick,1325000
+Nelson,Brunswick,1630000
+Nelson,Brunswick,1770000
+Woodards,Brunswick West,1000000
+Luxton,Bulleen,1300000
+Barry,Bulleen,1331000
+Marshall,Camberwell,2800000
+Ray,Carnegie,1966000
+Ray,Carnegie,381000
+HAR,Caroline Springs,646000
+Buxton,Cheltenham,795000
+O'Brien,Cheltenham,1160000
+Ray,Craigieburn,735000
+Ray,Craigieburn,600000
+YPA,Craigieburn,475000
+Barry,Craigieburn,552000
+Barry,Croydon,1180000
+HAR,Deer Park,632000
+One,Delahey,607500
+Morrison,Diamond Creek,990000
+Noel,Donvale,775000
+Hodges,Edithvale,950000
+Love,Epping,646000
+Barry,Epping,625000
+Eview,Fawkner,800000
+Noel,Ferntree Gully,775000
+Woodards,Fitzroy,1300000
+Nelson,Flemington,452500
+Noel,Forest Hill,1350000
+Marshall,Glen Iris,1285000
+Barry,Glenroy,1051000
+Darren,Greensborough,785000
+Buxton,Hampton,2000000
+Marshall,Hampton,2500000
+Buxton,Hampton East,1125000
+Marshall,Hawthorn East,3600000
+Nelson,Heidelberg,985000
+Buxton,Highett,1911000
+FN,Huntingdale,1205000
+Barry,Kealba,572000
+Barry,Keilor East,630000
+Jellis,Kew,2450000
+Jellis,Kew,955000
+hockingstuart,Kew,1630000
+Marshall,Kew East,1875000
+Melbourne,Lalor,766000
+Barry,Meadow Heights,741000
+FN,Melton,283000
+hockingstuart,Melton West,430000
+Buxton,Mitcham,890000
+Jellis,Moonee Ponds,1162000
+Stockdale,Mount Waverley,1586000
+Jellis,Mount Waverley,1408000
+Ray,Mulgrave,1080000
+Ray,Mulgrave,840000
+Woodards,Murrumbeena,1321188
+Williams,Newport,1130000
+Frank,Niddrie,800000
+Jellis,Northcote,1550000
+Ray,Northcote,1350000
+Woodards,Oakleigh,760000
+Buxton,Oakleigh South,1450000
+Woodards,Ormond,1450000
+HAR,Plumpton,625500
+Marshall,Port Melbourne,1725000
+Jellis,Prahran,1463000
+Ray,Reservoir,1000000
+Raine,Reservoir,1400000
+Marshall,Richmond,400000
+Ray,Roxburgh Park,426000
+hockingstuart,Sandringham,1050000
+hockingstuart,Seddon,680000
+HAR,South Morang,658500
+iSell,Springvale,881000
+Buckingham,St Helena,897000
+Marshall,St Kilda,2680000
+One,Sunbury,657500
+YPA,Sunbury,675000
+YPA,Sunbury,605000
+YPA,Sunbury,600000
+Marshall,Surrey Hills,1910000
+Barry,Taylors Lakes,751000
+Woodards,Templestowe,910000
+Harcourts,Vermont,1260000
+Ray,Vermont South,1202000
+Ray,Wantirna South,1180000
+hockingstuart,Werribee,515000
+Hodges,West Footscray,840000
+Ray,Wheelers Hill,1660000
+Jas,Yarraville,1360000
+Village,Yarraville,1455000
+Douglas,Albion,655000
+Bells,Albion,600000
+Barry,Altona Meadows,632500
+Greg,Altona North,860000
+Marshall,Armadale,4250000
+Brad,Ascot Vale,1080000
+hockingstuart,Ashwood,1554000
+Buxton,Ashwood,1850000
+Barry,Attwood,805000
+Whiting,Balaclava,1550000
+Marshall,Balwyn North,1800000
+Fletchers,Balwyn North,1562000
+Hodges,Beaumaris,1800000
+Nelson,Bellfield,815000
+Jellis,Bentleigh,1002500
+Buxton,Bentleigh,1390000
+Barry,Blackburn North,980000
+Biggin,Brighton,2710000
+Buxton,Brighton,3800000
+Jellis,Brunswick,1150000
+McDonald,Brunswick,1035500
+Woodards,Brunswick,984000
+Woodards,Brunswick East,2300000
+Brad,Brunswick West,1290000
+Nelson,Brunswick West,1211000
+Barry,Brunswick West,950000
+Jellis,Bulleen,950000
+Jellis,Bulleen,1292000
+Raine,Bullengarook,865000
+Barry,Bundoora,817000
+Ray,Burwood,1725000
+Marshall,Camberwell,1550000
+Marshall,Camberwell,1550000
+The,Camberwell,2700000
+Jellis,Camberwell,1625000
+hockingstuart,Camberwell,2650000
+Marshall,Carnegie,1630000
+Barry,Caroline Springs,725000
+Gary,Caulfield South,1605000
+Woodards,Chadstone,765000
+O'Brien,Cheltenham,880000
+Buxton,Cheltenham,790000
+C21,Clarinda,990000
+Ray,Clifton Hill,1369000
+Barry,Coburg,1300000
+Woodards,Coburg,1082000
+Nelson,Coburg,1035000
+Brad,Coburg,810000
+Brad,Coburg North,745000
+Ray,Craigieburn,715000
+Barry,Craigieburn,455000
+Barry,Craigieburn,594000
+Barry,Craigieburn,520000
+Skad,Craigieburn,472000
+Barry,Craigieburn,515000
+Ray,Craigieburn,583000
+McGrath,Croydon Hills,1010000
+Barry,Derrimut,695000
+Ray,Dingley Village,760000
+Barry,Doncaster,890000
+Jellis,Doncaster,1350000
+Jellis,Doncaster East,1250000
+Ray,Donvale,1898000
+Millership,Doreen,670000
+Hall,Doveton,670000
+Morrison,Eltham,1285000
+One,Endeavour Hills,1070000
+Love,Epping,585000
+HAR,Epping,620000
+Stockdale,Epping,681000
+Nelson,Epping,795000
+Love,Epping,560000
+HAR,Epping,530000
+McDonald,Essendon,2125000
+Brad,Essendon,502000
+Nelson,Essendon North,710000
+Nelson,Essendon West,800000
+Nelson,Essendon West,1365000
+Jellis,Fairfield,1275000
+Ray,Fawkner,728000
+Jas,Footscray,945000
+Jas,Footscray,931000
+hockingstuart,Frankston,600000
+McGrath,Gardenvale,883000
+Barry,Gladstone Park,630000
+Jellis,Glen Iris,1633000
+JRW,Glen Waverley,1330000
+Fletchers,Glen Waverley,1280000
+Jellis,Glen Waverley,1250000
+Harcourts,Glen Waverley,1000000
+Jellis,Greensborough,922000
+Darren,Greensborough,775000
+Raine,Greenvale,900000
+Jason,Greenvale,740000
+D'Aprano,Hadfield,750000
+Marshall,Hampton,2440000
+Charlton,Hampton,1615000
+Marshall,Hawthorn,4630000
+Jellis,Hawthorn,1660000
+Marshall,Hawthorn East,3950000
+Fletchers,Hawthorn East,1650000
+Marshall,Hawthorn East,1450000
+Ray,Heidelberg Heights,858000
+Buxton,Highett,870000
+Buxton,Highett,1280000
+Buxton,Highett,1650000
+Barry,Hillside,765000
+Barry,Hillside,950000
+Barry,Hillside,840000
+Raine,Hoppers Crossing,470000
+Barry,Hoppers Crossing,520000
+Nelson,Ivanhoe,1836000
+Barry,Jacana,600000
+Nelson,Keilor East,800000
+YPA,Keilor Lodge,653000
+Jellis,Kew,1350000
+Marshall,Kew,2905000
+Marshall,Kew East,2930000
+Ray,Lalor,590000
+Love,Lalor,660500
+Marshall,Malvern East,2200000
+Marshall,Malvern East,2200000
+Marshall,Malvern East,2425000
+Jellis,Malvern East,1040000
+Noel,Malvern East,1250000
+Raine,Maribyrnong,637500
+PRDNationwide,Melton,500000
+Reliance,Melton West,371000
+Buxton,Mentone,770000
+Buxton,Mentone,1155000
+RW,Mernda,585000
+RW,Mernda,642500
+HAR,Mernda,745000
+Buckingham,Mernda,570000
+Millership,Mernda,600000
+Ray,Mernda,615000
+Marshall,Middle Park,5575000
+Greg,Middle Park,3750000
+Greg,Middle Park,1720000
+Greg,Middle Park,3250000
+Ray,Mill Park,585000
+Barry,Mill Park,728000
+Barry,Mill Park,750000
+HAR,Mill Park,715000
+Noel,Mitcham,1600000
+Noel,Mitcham,1070000
+Jellis,Montmorency,1180000
+Nelson,Moonee Ponds,1300000
+Buxton,Moorabbin,1250000
+Buxton,Moorabbin,1210000
+Buxton,Moorabbin,1250000
+Barry,Mooroolbark,630000
+LJ,Mooroolbark,922000
+Fletchers,Mooroolbark,665000
+Jellis,Mount Waverley,1760000
+Jellis,Mount Waverley,1870000
+Barry,Mount Waverley,1450000
+Buxton,Murrumbeena,1325000
+McGrath,Newport,1085000
+Williams,Newport,1150000
+Greg,Newport,1237500
+Barry,Niddrie,920000
+Nelson,Niddrie,1135000
+Le,Noble Park,742500
+Nelson,Northcote,1950000
+Philip,Nunawading,900000
+Buxton,Oakleigh,1580000
+Brad,Pascoe Vale,1300000
+Nelson,Pascoe Vale,860000
+hockingstuart,Point Cook,740000
+MICM,Point Cook,717760
+Sanctuary,Point Cook,620000
+Greg,Port Melbourne,1150000
+Biggin,Port Melbourne,1735000
+Marshall,Prahran,2500000
+McGrath,Preston,1570000
+Woodards,Preston,1495000
+Jellis,Research,930000
+Nelson,Reservoir,1285000
+Biggin,Richmond,1185000
+Jellis,Richmond,1930000
+Philip,Ringwood,845000
+Fletchers,Ringwood East,830000
+Harcourts,Rowville,920000
+RW,Roxburgh Park,455000
+Barry,Scoresby,1358000
+Frank,South Melbourne,1750000
+Barry,South Morang,665000
+Jellis,South Yarra,1720000
+Jas,Spotswood,895000
+RW,Springvale,650000
+YPA,St Albans,641000
+Barry,St Albans,520000
+Burnham,St Albans,635000
+Whiting,St Kilda,920000
+Considine,Strathmore,1480000
+Raine,Sunbury,512500
+One,Sunbury,557000
+YPA,Sunbury,556000
+Douglas,Sunshine,950000
+Barry,Sunshine North,700000
+Ray,Sunshine North,890000
+Jellis,Surrey Hills,1750000
+Barry,Sydenham,683000
+Fletchers,Templestowe Lower,1030000
+Ray,Templestowe Lower,1350000
+Love,Thomastown,627000
+Love,Thomastown,625000
+McGrath,Thornbury,1400000
+Nelson,Thornbury,1200000
+Nelson,Thornbury,1605500
+Haughton,Thornbury,1000000
+Harcourts,Vermont South,1170000
+Miles,Viewbank,1050000
+Darren,Watsonia North,650000
+Greg,Werribee,680000
+Ray,Werribee,640000
+Jas,West Footscray,832000
+Village,West Footscray,900000
+YPA,Westmeadows,675000
+LLC,Wheelers Hill,1400000
+Greg,Williamstown,2020000
+Ray,Wollert,500000
+RW,Wollert,570000
+Sweeney,Yarraville,888000
+Jas,Yarraville,705000
+RW,Yarraville,1020000
+Nelson,Abbotsford,855000
+Greg,Albert Park,685000
+Nelson,Alphington,330000
+Brad,Ascot Vale,1010000
+Brad,Ascot Vale,990000
+Moonee,Avondale Heights,773000
+Jellis,Balwyn North,3200000
+LJ,Beaconsfield Upper,675000
+hockingstuart,Bentleigh East,1815000
+Buxton,Bentleigh East,1225000
+Harcourts,Berwick,690000
+Fletchers,Blackburn,880000
+Noel,Blackburn South,1264000
+Sweeney,Braybrook,570000
+Hodges,Brighton,2655000
+Buxton,Brighton East,2525000
+Buxton,Brighton East,1300000
+Woodards,Brunswick,1275000
+Nelson,Brunswick,1204000
+Alexkarbon,Brunswick West,1268000
+Collins,Brunswick West,1445000
+Jellis,Carlton,1000000
+RW,Caroline Springs,1150000
+Gary,Caulfield South,1700000
+Buxton,Chelsea Heights,732000
+Buxton,Cheltenham,800000
+Ray,Cheltenham,877000
+Barry,Cheltenham,900000
+Buxton,Clayton,780000
+Ray,Coburg,1020000
+Nelson,Coburg,996000
+Nelson,Collingwood,1095000
+Ray,Craigieburn,492000
+Ray,Craigieburn,425000
+McGrath,Croydon,860000
+Ray,Dingley Village,801000
+Ray,Dingley Village,955000
+Morrison,Eltham North,967500
+Buckingham,Eltham North,890000
+Gary,Elwood,1800000
+McDonald,Essendon,410000
+Brad,Essendon,930000
+Stockdale,Fawkner,650000
+Nelson,Fitzroy,700000
+U,Frankston,570000
+Stockdale,Glenroy,512000
+Morrison,Greensborough,895000
+Barry,Greensborough,880000
+Nelson,Greensborough,925000
+YPA,Greenvale,715000
+YPA,Greenvale,840500
+Hodges,Hampton,1285000
+Buxton,Hampton,685000
+Buxton,Hampton East,957000
+Jellis,Hawthorn,2370000
+Jellis,Hawthorn,1682000
+Barry,Hillside,660000
+Nelson,Ivanhoe,975000
+Prof.,Keilor Downs,670000
+Harcourts,Lalor,560000
+Harcourts,Lalor,511500
+Marshall,Malvern East,3600000
+Edward,Maribyrnong,815000
+Raine,Meadow Heights,467000
+hockingstuart,Melton,405000
+Ray,Mill Park,428000
+Ray,Mill Park,722500
+Ray,Mill Park,421000
+Nelson,Moonee Ponds,286000
+O'Brien,Mordialloc,920000
+Max,Mount Evelyn,620000
+McGrath,Mount Waverley,1200000
+Win,Mulgrave,865000
+Marshall,Murrumbeena,1920000
+Williams,Newport,1230000
+Hunter,Newport,1220000
+Leyton,Noble Park,660000
+Alexkarbon,North Melbourne,570000
+Jellis,North Warrandyte,1550000
+Ray,Nunawading,1075000
+Rendina,Oak Park,1071888
+Eview,Oak Park,560000
+HAR,Oakleigh,1750000
+Buxton,Oakleigh East,1210000
+Buxton,Parkdale,1300000
+Brad,Pascoe Vale,740000
+Greg,Port Melbourne,800000
+hockingstuart,Prahran,1020000
+Jellis,Prahran,660000
+McGrath,Preston,1242000
+RW,Preston,1350000
+Nelson,Preston,1020000
+Ray,Reservoir,912000
+Nelson,Reservoir,685000
+Stockdale,Reservoir,270000
+Biggin,Richmond,890500
+Raine,Riddells Creek,817000
+Fletchers,Ringwood North,750000
+Fletchers,Rowville,860000
+Harcourts,Sandhurst,645000
+Charlton,Sandringham,1770000
+Village,Seddon,1085000
+Sweeney,Sunshine West,780000
+Noel,Surrey Hills,2000000
+Jellis,Templestowe,1450000
+Jellis,Templestowe,1860000
+Harcourts,Thomastown,651000
+Jellis,Thornbury,1250000
+Noel,Vermont,1235000
+Ray,Vermont South,1290000
+Ray,Wantirna South,1180000
+hockingstuart,Windsor,957500
+Kay,Windsor,2080000
+Barry,Yallambie,852000
+Nelson,Brunswick,880000
+Nelson,Brunswick,754000
+Woodards,Brunswick,590000
+Nelson,Brunswick,575000
+Jellis,Armadale,710000
+hockingstuart,Armadale,598000
+Marshall,Armadale,1285000
+Nelson,Brunswick,1510000
+Jellis,Brunswick,801000
+Jellis,Brunswick,820000
+Biggin,Elsternwick,2140000
+Fletchers,Eltham,985000
+Buckingham,Eltham,955000
+Morrison,Eltham,1500000
+RW,Epping,480200
+Love,Epping,606000
+Barry,Essendon,1731000
+Jellis,Fawkner,600000
+Brad,Fawkner,642000
+hockingstuart,Frankston North,485000
+RT,Gisborne South,1350000
+Noel,Glen Waverley,1863000
+Barry,Glenroy,750000
+Brad,Glenroy,720000
+Barry,Glenroy,939000
+Barry,Greensborough,960000
+hockingstuart,Hoppers Crossing,441000
+Brad,Kealba,632500
+Barry,Keilor Downs,731000
+Jellis,Kew,2900000
+Nelson,Kew,2015000
+Marshall,Kew,1900000
+Eric,Kurunjang,355000
+Jellis,Malvern,2610000
+Jellis,Malvern East,3350000
+YPA,Meadow Heights,545000
+PRDNationwide,Melton,385000
+HAR,Melton South,451000
+hockingstuart,Melton South,425000
+hockingstuart,Mentone,780000
+HAR,Mernda,705000
+The,Mill Park,640000
+HAR,Mill Park,665000
+Barry,Mill Park,660000
+Jellis,Mitcham,985000
+Jellis,Moonee Ponds,1780000
+Barry,Mount Waverley,980000
+Nelson,Northcote,1500000
+McGrath,Northcote,1900000
+McGrath,Northcote,1295000
+McGrath,Northcote,989000
+Barry,Oakleigh,1160000
+Ray,Oakleigh South,1050000
+Nelson,Pascoe Vale,750000
+Kay,Prahran,3250000
+Barry,Reservoir,780000
+Love,South Morang,635000
+Stockdale,South Morang,810000
+Ray,South Morang,652000
+Ray,St Albans,622000
+Brad,Sunbury,468000
+Barry,Sunshine,730000
+Douglas,Sunshine,927500
+hockingstuart,Sunshine,945800
+Marshall,Surrey Hills,2900000
+Jellis,Templestowe,3030000
+Barry,Templestowe Lower,1300000
+Ray,Templestowe Lower,1699000
+Barry,Thomastown,841000
+Ray,Wantirna,1085000
+LLC,Wantirna South,1261000
+Barry,Wantirna South,1205000
+YPA,Werribee,931000
+Barry,Werribee,430000
+Village,Yarraville,1343000
+Jellis,Brunswick,370000
+Nelson,Brunswick,1170000
+Greg,Albert Park,2340000
+Jas,Altona North,791000
+Marshall,Armadale,4060000
+Bullen,Ascot Vale,1151000
+Jellis,Ashburton,1650000
+Marshall,Ashburton,2550000
+Marshall,Balwyn North,2800000
+Gary,Bentleigh East,1800000
+Buxton,Bentleigh East,1130000
+Gary,Bentleigh East,1370000
+Jellis,Bentleigh East,1311000
+Noel,Blackburn,1350000
+Ray,Blackburn South,905000
+Buxton,Bonbeach,920000
+iTRAK,Boronia,728000
+Buxton,Box Hill,1900000
+Nelson,Briar Hill,1030000
+Nick,Brighton,2830000
+Jellis,Brighton East,2060000
+Buxton,Brighton East,1650000
+Hodges,Brighton East,1650000
+Jellis,Brunswick East,959000
+Collins,Brunswick West,2350000
+Ray,Bundoora,815000
+YPA,Burnside,580000
+Noel,Burwood,1220000
+Nelson,Burwood,1535000
+Buxton,Burwood,1322500
+Jellis,Carnegie,1400000
+Harcourts,Carrum Downs,546000
+Barry,Carrum Downs,532000
+Gary,Caulfield South,790000
+Ray,Chelsea Heights,725000
+Buxton,Cheltenham,1300000
+C21,Clayton South,950000
+Stockdale,Coolaroo,460000
+RE,Craigieburn,412500
+O'Brien,Cranbourne,720008
+hockingstuart,Croydon,1188000
+Barry,Croydon,905000
+Biggin,Dandenong North,600000
+Buckingham,Eltham,1060000
+Buckingham,Eltham North,905000
+hockingstuart,Epping,595000
+Barry,Epping,810000
+Barry,Essendon,2335000
+Frank,Essendon,1580000
+Jellis,Fitzroy North,1385000
+Nelson,Fitzroy North,1400000
+Jellis,Fitzroy North,1870000
+hockingstuart,Footscray,755000
+Buxton,Forest Hill,1078000
+hockingstuart,Forest Hill,1065000
+Barry,Frankston North,493000
+hockingstuart,Frankston South,1155000
+hockingstuart,Frankston South,980000
+Marshall,Glen Iris,2690000
+Nelson,Gowanbrae,655000
+Rexhepi,Hampton Park,625000
+hockingstuart,Hoppers Crossing,602000
+hockingstuart,Hoppers Crossing,567000
+Daniel,Keilor,1125000
+Barry,Keilor Downs,700000
+Barry,Keilor East,960000
+Nelson,Keilor East,1160000
+Jellis,Kew,3300000
+Kay,Kew,1750000
+Kay,Kew,3450000
+Barry,Keysborough,930000
+Max,Kilsyth,803000
+Barry,Kings Park,560000
+Jellis,Kooyong,3080000
+HAR,Lalor,625000
+O'Brien,Langwarrin,965000
+Biggin,Maidstone,735000
+Jellis,Malvern East,651000
+Jas,Maribyrnong,3400000
+Barry,Meadow Heights,535000
+Ryder,Melton,710000
+YPA,Melton South,395000
+Chisholm,Middle Park,2090000
+Noel,Mitcham,907800
+Noel,Mitcham,1010000
+Nelson,Moonee Ponds,435000
+Biggin,Moonee Ponds,1305000
+Jellis,Moorabbin,1072000
+Ray,Moorabbin,1290000
+Buxton,Mordialloc,1500000
+Jellis,Mount Waverley,1028800
+Jellis,Mount Waverley,1840000
+McGrath,Mount Waverley,1035000
+Biggin,Mulgrave,940000
+Brad,Niddrie,845000
+Nelson,Northcote,1118000
+Ray,Oakleigh,875000
+Buxton,Parkdale,2475000
+Eview,Pascoe Vale,1260000
+Point,Point Cook,527000
+Marshall,Port Melbourne,2455000
+Nelson,Preston,910000
+Ray,Reservoir,640000
+RW,Reservoir,1112000
+Stockdale,Reservoir,852000
+Ray,Reservoir,800000
+RW,Reservoir,625500
+Ray,Ringwood,700000
+Carter,Ringwood East,937000
+Nelson,Rosanna,1224000
+YPA,Roxburgh Park,621000
+Buxton,Sandringham,1490000
+Ray,Scoresby,890000
+hockingstuart,Seaford,512000
+Sweeney,Seddon,1502000
+YPA,St Albans,537000
+McDonald,Strathmore,1848000
+One,Sunbury,605000
+Barry,Sunshine,717500
+Noel,Surrey Hills,1715000
+S&L,Tarneit,350000
+Barry,Templestowe Lower,1400000
+Nelson,Thornbury,1271000
+Barry,Tullamarine,540000
+Ray,Wantirna,951000
+Barry,Wantirna South,1330000
+Morrison,Watsonia,650000
+hockingstuart,Werribee,635000
+Williams,Williamstown,1031000
+Sweeney,Williamstown,2500000
+Village,Yarraville,1285000
+Ray,Epping,775000
+O'Brien,Frankston,625000
+Nelson,Abbotsford,505000
+Jellis,Abbotsford,1402500
+Rendina,Aberfeldie,2905000
+Prime,Airport West,650000
+Barry,Airport West,856000
+Cayzer,Albert Park,1505000
+Douglas,Albion,600000
+Barlow,Altona,1005000
+hockingstuart,Armadale,410000
+Nelson,Ascot Vale,1530000
+Nelson,Ascot Vale,1082000
+Noel,Balwyn,725000
+Noel,Balwyn,602000
+Fletchers,Balwyn,830000
+Kay,Balwyn North,1300000
+hockingstuart,Balwyn North,1940000
+Jellis,Balwyn North,1590000
+Biggin,Bayswater,705000
+Ray,Beaumaris,2200000
+Gary,Bentleigh,420000
+Gary,Bentleigh,1479000
+hockingstuart,Bentleigh East,1655000
+Buxton,Bentleigh East,1430000
+C21,Berwick,667000
+Buxton,Black Rock,1080000
+Purplebricks,Brighton East,1750800
+Buxton,Brighton East,1605000
+Buxton,Brighton East,1035000
+YPA,Broadmeadows,505000
+Jas,Brooklyn,663000
+Walshe,Brunswick,860000
+Jellis,Brunswick,2545000
+Nelson,Brunswick,1405000
+Nelson,Brunswick,460000
+Biggin,Brunswick East,1210000
+Ray,Brunswick West,460000
+Brad,Brunswick West,1075000
+Ray,Bundoora,880000
+Jellis,Burnley,1837500
+Barry,Burnside Heights,593000
+Buxton,Burwood,1642000
+Ray,Burwood East,780000
+Jellis,Camberwell,1290000
+Marshall,Canterbury,1930000
+Jellis,Canterbury,2408000
+Kay,Canterbury,4750000
+hockingstuart,Carnegie,1042000
+Gary,Carnegie,1450000
+Harcourts,Carrum Downs,525000
+Marshall,Caulfield North,1417500
+Woodards,Chadstone,510000
+Buxton,Cheltenham,601000
+Buxton,Cheltenham,1145000
+Hoskins,Chirnside Park,911982
+Buxton,Clayton,1040000
+Nelson,Clifton Hill,1460000
+Ray,Coburg North,865000
+Kay,Collingwood,1135000
+Jellis,Collingwood,900000
+@Realty,Craigieburn,499000
+Raine,Craigieburn,506000
+Ray,Craigieburn,430000
+Ray,Craigieburn,420000
+Biggin,Cremorne,570000
+Philip,Croydon,637000
+Fletchers,Croydon Hills,905000
+Fletchers,Croydon North,835000
+Bells,Derrimut,610000
+Ray,Dingley Village,1255000
+Fletchers,Doncaster East,871000
+Barry,Doncaster East,1451000
+Noel,Doncaster East,1385000
+Jellis,Doncaster East,1360000
+O'Brien,Edithvale,1850000
+Ray,Edithvale,612500
+Morrison,Eltham,855000
+Barry,Eltham,855000
+Buckingham,Eltham North,895000
+RT,Elwood,902000
+Chisholm,Elwood,1410000
+hockingstuart,Elwood,1360000
+Harcourts,Epping,500000
+Love,Epping,573000
+Harcourts,Epping,465000
+Barry,Epping,545000
+Barry,Essendon,1980000
+Nelson,Essendon,830000
+Nelson,Essendon,886000
+Barry,Essendon North,445000
+Barry,Essendon West,1050000
+Hodges,Fawkner,800000
+Brad,Fawkner,786000
+Schroeder,Ferntree Gully,617000
+Nelson,Flemington,990000
+Biggin,Footscray,455000
+Fletchers,Forest Hill,680000
+Jason,Gladstone Park,755000
+Jellis,Glen Iris,762000
+hockingstuart,Glen Iris,1501000
+Harcourts,Glen Waverley,1100000
+McGrath,Glen Waverley,1135000
+Brad,Glenroy,865000
+Brad,Glenroy,362500
+Eview,Glenroy,922000
+Stockdale,Glenroy,963500
+Darren,Greensborough,740000
+YPA,Greenvale,730000
+RW,Greenvale,770000
+Hodges,Hampton,2550000
+RT,Hawthorn,2800000
+Marshall,Hawthorn,1702000
+Marshall,Hawthorn,3399000
+Jellis,Hawthorn East,802500
+Jellis,Hawthorn East,441000
+hockingstuart,Hawthorn East,500000
+Miles,Heidelberg,738000
+Barry,Heidelberg Heights,800000
+Jellis,Heidelberg Heights,680000
+Haughton,Heidelberg West,605000
+Haughton,Heidelberg West,580000
+hockingstuart,Highett,1600000
+Barry,Hillside,677000
+Brad,Hillside,737500
+Barry,Hoppers Crossing,520000
+Sweeney,Hoppers Crossing,505000
+hockingstuart,Hoppers Crossing,680000
+Greg,Hoppers Crossing,442500
+Ray,Hughesdale,1203500
+Nelson,Ivanhoe,1475000
+Nelson,Ivanhoe East,1640000
+YPA,Jacana,590500
+O'Brien,Keilor,895000
+Edward,Kensington,400000
+Jellis,Kew,825000
+Jellis,Kew East,2258000
+Buxton,Keysborough,1250000
+Ray,Kings Park,520000
+Ray,Knoxfield,1218000
+Ray,Lalor,600000
+Love,Lalor,487000
+Love,Lalor,572000
+Morrison,Lower Plenty,650000
+Jellis,Malvern,1700000
+Jellis,Malvern East,1060000
+hockingstuart,Maribyrnong,530000
+Raine,Maribyrnong,450000
+Biggin,Maribyrnong,353000
+Harcourts,Melbourne,720000
+PRDNationwide,Melton,295000
+hockingstuart,Melton South,347500
+Reliance,Melton West,410000
+Greg,Mentone,1485000
+Greg,Middle Park,1750000
+Barry,Mitcham,695000
+Barry,Mitcham,655000
+Jellis,Mitcham,775000
+Noel,Mitcham,820000
+Barry,Montmorency,900000
+Barry,Montmorency,806000
+Barry,Montmorency,980000
+Woodards,Murrumbeena,1540000
+Thomson,Murrumbeena,470000
+iSell,Noble Park,730000
+Leyton,Noble Park,676000
+C21,Noble Park,805000
+Nelson,North Melbourne,1126000
+Jellis,North Melbourne,799000
+J,North Melbourne,1285000
+Jellis,Northcote,1512000
+Barry,Nunawading,777000
+Buxton,Oakleigh East,912000
+Woodards,Ormond,1565000
+Barry,Parkdale,1270000
+Barry,Parkdale,1137500
+Obrien,Parkdale,1415000
+Nelson,Pascoe Vale,876000
+Nelson,Pascoe Vale,736000
+Nelson,Pascoe Vale,478000
+Cayzer,Port Melbourne,1335000
+Biggin,Prahran,740000
+Marshall,Prahran,698000
+Biggin,Prahran,780000
+Haughton,Preston,920000
+McGrath,Preston,1115000
+Woodards,Preston,1171000
+Nelson,Preston,1060000
+Holland,Preston,617500
+Ray,Reservoir,575000
+hockingstuart,Reservoir,635000
+Nelson,Reservoir,860000
+hockingstuart,Richmond,615000
+Biggin,Richmond,314000
+Biggin,Richmond,1341000
+Barry,Ringwood East,609000
+Fletchers,Rosanna,1100000
+Buxton,Sandringham,760000
+Veitch,Seaford,795000
+Village,Seddon,830000
+Jellis,Seddon,940000
+RT,South Yarra,2920000
+Jellis,South Yarra,400000
+hockingstuart,Southbank,600000
+Morrison,St Helena,1387000
+Buxton,St Kilda,480000
+Brad,Sunbury,535000
+Bells,Sunshine,1070000
+Douglas,Sunshine North,750000
+Douglas,Sunshine North,632000
+Jellis,Surrey Hills,2505000
+Noel,Surrey Hills,1785000
+Jellis,Templestowe Lower,1375000
+Harcourts,Thomastown,740000
+McGrath,Thornbury,745000
+Jellis,Thornbury,1225000
+Sweeney,Truganina,390000
+YPA,Tullamarine,695000
+Miles,Viewbank,870000
+Barry,Watsonia North,710000
+YPA,Werribee,570000
+Jas,West Footscray,597000
+Nelson,West Melbourne,660000
+hockingstuart,Williamstown,880000
+Greg,Williamstown North,862000
+Iconek,Wollert,595000
+Jas,Yarraville,709500
+hockingstuart,Armadale,520000
+Ray,Brunswick,1790000
+Walshe,Brunswick,640000
+Jellis,Brunswick,1875000
+Ray,Brunswick,1053000
+Nelson,Brunswick,705000
+Jellis,Armadale,3625000
+Kay,Armadale,4200000
+Jellis,Armadale,1101000
+Marshall,Armadale,3512500
+Walshe,Brunswick,1217000
+Jellis,Brunswick,1020000
+Nelson,Brunswick,1340000
+Jellis,Armadale,869000
+Jellis,Brunswick,1410000
+Nelson,Brunswick,1550000
+Nelson,Brunswick,740000
+Nelson,Brunswick,592500
+Nelson,Brunswick,370000
+Nelson,Brunswick,765000
+hockingstuart,Armadale,567000
+Collins,Brunswick,772000
+Nelson,Brunswick,1210000
+Jellis,Brunswick,1755000
+Nelson,Airport West,965000
+Barry,Airport West,870000
+Barry,Airport West,845000
+Ace,Altona Meadows,600000
+hockingstuart,Ardeer,650000
+Jellis,Armadale,1800000
+Marshall,Ashburton,1870000
+Purplebricks,Ashburton,1620000
+Barry,Attwood,840000
+YPA,Attwood,714000
+Brad,Avondale Heights,865000
+Hodges,Avondale Heights,801000
+Nelson,Avondale Heights,702500
+Nelson,Avondale Heights,900000
+Marshall,Balwyn,2400000
+Marshall,Balwyn,3320000
+hockingstuart,Balwyn North,2400000
+VICPROP,Balwyn North,1683000
+Marshall,Balwyn North,1000000
+hockingstuart,Balwyn North,3225000
+Purplebricks,Balwyn North,1730000
+Jellis,Bentleigh,2478000
+Jellis,Bentleigh East,1600000
+hockingstuart,Blackburn,1940000
+Ray,Blackburn South,1955000
+Buxton,Bonbeach,1501000
+O'Brien,Bonbeach,1031000
+Buxton,Brighton,3820000
+Marshall,Brighton,3850000
+Buxton,Brighton,1850000
+Buxton,Brighton,2100000
+Marshall,Brighton East,2000000
+RT,Brighton East,2220000
+hockingstuart,Brunswick,2020000
+Nelson,Brunswick West,1310000
+Jellis,Bulleen,1830000
+Ray,Bundoora,770000
+HAR,Burnside,775100
+YPA,Burnside Heights,860000
+Buxton,Burwood,2315000
+Harcourts,Burwood East,1260000
+Marshall,Camberwell,2540000
+YPA,Campbellfield,666000
+Ray,Carnegie,1700000
+Buxton,Cheltenham,1475000
+Buxton,Cheltenham,1250000
+Buxton,Cheltenham,700000
+Ray,Clayton,800000
+Woodards,Clayton,1004000
+Collins,Clifton Hill,3100000
+Barry,Coburg,1350000
+Nelson,Coburg,1269000
+Nelson,Coburg,1150000
+Jellis,Coburg North,1190000
+Stockdale,Craigieburn,655000
+Barry,Craigieburn,435000
+LJ,Craigieburn,620000
+Ray,Craigieburn,580000
+iTRAK,Cranbourne,910500
+McGrath,Croydon,660000
+Fletchers,Croydon,1115000
+Fletchers,Croydon,1060000
+Stockdale,Dallas,695000
+Stockdale,Dallas,465000
+Boutique,Dandenong North,775000
+Boutique,Dandenong North,651800
+Douglas,Deer Park,765000
+Buxton,Dingley Village,1526000
+Barry,Doncaster East,1155000
+Philip,Doncaster East,1105000
+Jellis,Doncaster East,1450000
+HAR,Epping,625000
+RW,Epping,656000
+Millership,Epping,470000
+Nelson,Essendon,1507000
+Nelson,Essendon North,750000
+Jellis,Fairfield,1900000
+Ray,Fawkner,850000
+Nelson,Flemington,1161000
+Barry,Frankston,600000
+Eview,Frankston,800000
+Ray,Frankston,670000
+Ray,Frankston,625000
+Barry,Gladstone Park,760000
+Barry,Gladstone Park,665000
+Jellis,Glen Iris,2320000
+Ray,Glen Waverley,1300000
+Barry,Glen Waverley,1500000
+Raine,Glenroy,780000
+Nelson,Gowanbrae,290000
+Nelson,Gowanbrae,790000
+Darren,Greensborough,708000
+Fletchers,Greensborough,985000
+YPA,Greenvale,700000
+buyMyplace,Greenvale,1400000
+Stockdale,Hadfield,1077500
+Eview,Hadfield,665000
+hockingstuart,Hampton,2025000
+Jellis,Hawthorn,502000
+Jellis,Hawthorn,2750000
+Marshall,Hawthorn East,1500000
+Marshall,Hawthorn East,1350000
+Barry,Heathmont,900000
+Jellis,Heidelberg Heights,602000
+Charlton,Highett,900000
+Hodges,Highett,1776000
+Obrien,Highett,1100000
+Barry,Hillside,681000
+HAR,Hillside,682100
+Ray,Hoppers Crossing,500000
+Greg,Hoppers Crossing,525000
+Barry,Hoppers Crossing,515000
+YPA,Jacana,616000
+Brad,Keilor,1210000
+Brad,Keilor Downs,900000
+Jellis,Kew,1752000
+Jellis,Kew East,2375000
+Greg,Kingsville,1180000
+hockingstuart,Kingsville,1170000
+Marshall,Malvern East,2090000
+Marshall,Malvern East,6125000
+Rendina,Maribyrnong,1765000
+Raine,Melton South,413000
+HAR,Mernda,609000
+Ray,Mernda,622000
+Barry,Mill Park,744000
+Barry,Mill Park,800000
+Ray,Mill Park,688000
+HAR,Mill Park,755000
+Stockdale,Mill Park,705000
+RW,Mill Park,654000
+Noel,Mitcham,1050000
+Noel,Mitcham,1230000
+Morrison,Montmorency,1375000
+Avion,Moonee Ponds,1635000
+Jellis,Moorabbin,1050000
+McGrath,Mooroolbark,870000
+O'Brien,Mordialloc,1350000
+Buxton,Murrumbeena,1720000
+Raine,Newport,960000
+Barry,Noble Park,790000
+Gardiner,North Warrandyte,698000
+Jellis,Northcote,1050000
+Jellis,Northcote,2250000
+Jellis,Northcote,2295000
+Fletchers,Nunawading,1200000
+Ray,Oakleigh South,986000
+FN,Pakenham,490000
+Buxton,Parkdale,1875000
+Hodges,Parkdale,1400000
+LJ,Point Cook,725000
+Biggin,Port Melbourne,2200000
+Jellis,Prahran,1960000
+Stockdale,Preston,833000
+Harcourts,Preston,1040000
+Love,Preston,960000
+Woodards,Princes Hill,1600000
+Miles,Rosanna,1050000
+Ray,Roxburgh Park,522500
+Raine,Roxburgh Park,477000
+Millership,South Morang,611000
+HAR,South Morang,433500
+hockingstuart,South Yarra,1350000
+Jellis,South Yarra,2400000
+iSell,Springvale,930000
+Sweeney,St Albans,600000
+Barry,St Albans,785000
+Nelson,Strathmore,1370000
+Nelson,Strathmore,1610000
+Brad,Sunbury,566000
+Raine,Sunbury,650000
+YPA,Sunbury,530000
+Jas,Sunshine,1050000
+Jellis,Surrey Hills,2325000
+Marshall,Surrey Hills,2900000
+Jellis,Surrey Hills,2100000
+Barry,Taylors Hill,610000
+Barry,Taylors Hill,692000
+Jellis,Templestowe,1700000
+Barry,Templestowe Lower,1301000
+Jellis,Templestowe Lower,1050000
+Jellis,Templestowe Lower,1710000
+Nelson,Thornbury,1170000
+Philip,Vermont,1133000
+Barry,Wallan,484000
+PRDNationwide,Werribee,480000
+Hodges,West Footscray,881000
+Collins,West Melbourne,1230000
+YPA,Westmeadows,490000
+Reliance,Williams Landing,615000
+Williams,Williamstown,1260000
+HAR,Wollert,600000
+Jas,Yarraville,985000
+Jas,Yarraville,861000
+Marshall,Armadale,405000
+RE,Airport West,780000
+Sweeney,Albanvale,555000
+Douglas,Albion,580000
+Barry,Ardeer,627000
+Jellis,Ashwood,1540000
+VICProp,Balwyn,3812000
+Jellis,Balwyn North,1755000
+McGrath,Bayswater,606000
+hockingstuart,Bentleigh,1435000
+Woodards,Bentleigh East,1260000
+C21,Berwick,620000
+Hodges,Black Rock,600000
+Ray,Blackburn South,615000
+Noel,Boronia,770000
+Buxton,Brighton,845000
+YPA,Broadmeadows,706000
+Reliance,Brookfield,456000
+Jellis,Brunswick,650000
+Nicholson,Brunswick East,620000
+Nicholson,Brunswick East,683000
+Jellis,Brunswick East,501000
+hockingstuart,Brunswick East,615000
+Jellis,Brunswick West,1150000
+Ray,Burwood East,835000
+HAR,Cairnlea,640000
+Jellis,Camberwell,1280000
+Fletchers,Camberwell,2500000
+Philip,Camberwell,600800
+Woodards,Carnegie,1151000
+Buxton,Carrum,625000
+Harcourts,Carrum Downs,480000
+Buxton,Chadstone,1050000
+Ray,Chelsea Heights,835500
+O'Brien,Cheltenham,1740000
+Ray,Clifton Hill,591000
+Nelson,Coburg,1400000
+Nelson,Coburg,996000
+Nelson,Coburg North,1011000
+Ray,Coburg North,830000
+LJ,Craigieburn,510000
+YPA,Craigieburn,590000
+Ray,Craigieburn,390000
+Ray,Cranbourne North,500000
+Barry,Doncaster,1420000
+Biggin,Doncaster East,1460000
+Stockdale,Doveton,450000
+Biggin,Elsternwick,834500
+Buckingham,Eltham North,920000
+Chisholm,Elwood,930000
+Chisholm,Elwood,720000
+Chisholm,Elwood,1035000
+Chisholm,Elwood,715000
+Kaye,Emerald,655000
+O'Brien,Endeavour Hills,630000
+O'Brien,Endeavour Hills,676000
+hockingstuart,Epping,658000
+Darren,Epping,500000
+HAR,Epping,560000
+Love,Epping,503000
+Jellis,Fairfield,1800000
+Ray,Ferntree Gully,861000
+Ray,Ferntree Gully,890000
+Jas,Footscray,370000
+hockingstuart,Frankston,680000
+C21,Frankston North,570000
+Bowman,Frankston South,945000
+Woodards,Glen Huntly,450000
+Jellis,Glen Iris,955000
+Stockdale,Glenroy,820000
+FN,Glenroy,680000
+Darren,Greensborough,770000
+Morrison,Greensborough,900000
+hockingstuart,Heidelberg,835000
+Charlton,Highett,1200000
+Hodges,Highett,1030000
+hockingstuart,Highett,1200000
+hockingstuart,Highett,1150000
+YPA,Hillside,618350
+Ray,Hoppers Crossing,540000
+Miles,Ivanhoe,2530000
+Nelson,Keilor Park,750000
+McDonald,Keilor Park,765000
+Buckingham,Kew,1405000
+Jellis,Kew,3015000
+Biggin,Keysborough,745000
+hockingstuart,Kurunjang,375000
+HAR,Lalor,444000
+Langwell,Lalor,544000
+Love,Lalor,580500
+Jas,Maidstone,670000
+Jas,Maidstone,821000
+RW,Meadow Heights,360000
+Barry,Meadow Heights,510000
+MICM,Melbourne,565000
+YPA,Melton South,385000
+hockingstuart,Melton West,427500
+Ray,Mill Park,668000
+Ray,Mill Park,650000
+Hodges,Moonee Ponds,1400000
+Fletchers,Mooroolbark,696000
+Ray,Mount Waverley,1406000
+Hall,Mulgrave,9000000
+Harcourts,Mulgrave,1001000
+Weston,Murrumbeena,540000
+hockingstuart,Murrumbeena,910000
+Thomson,Murrumbeena,295000
+Gunn&Co,Newport,582000
+Barry,Noble Park,695000
+Jellis,Northcote,1515000
+Ray,Nunawading,813000
+Hodges,Oak Park,545000
+Woodards,Oak Park,1300000
+Considine,Oak Park,1260000
+hockingstuart,Pascoe Vale,940000
+hockingstuart,Point Cook,620000
+Marshall,Port Melbourne,1722500
+McGrath,Preston,1485000
+hockingstuart,Reservoir,672000
+Marshall,Richmond,330000
+HAR,Ringwood East,1400000
+Buxton,Ripponlea,558500
+YPA,Roxburgh Park,460000
+Ray,Roxburgh Park,490000
+hockingstuart,Sandringham,1660000
+Hodges,Sandringham,1235000
+hockingstuart,Seaford,870000
+O'Brien,Seaford,880000
+Village,Seddon,945000
+Sweeney,South Kingsville,730000
+Marshall,South Melbourne,980000
+Ray,South Yarra,570000
+hockingstuart,St Kilda,600000
+Brad,Sunbury,360000
+Leeburn,Sunbury,475000
+One,Sunbury,495000
+Barry,Sunshine West,695000
+Barry,Sunshine West,760000
+S&L,Sunshine West,583500
+Prof.,Sydenham,585000
+Barry,Templestowe Lower,1245000
+Barry,Templestowe Lower,2000000
+HAR,Thomastown,407000
+Nelson,Thornbury,891000
+hockingstuart,Tullamarine,615500
+Jason,Tullamarine,300000
+Harcourts,Wantirna South,1310000
+hockingstuart,Werribee,645000
+YPA,Werribee,482500
+hockingstuart,Werribee,394000
+YPA,Westmeadows,821000
+Barry,Westmeadows,635000
+Ray,Whittlesea,601000
+Williams,Williamstown,1050000
+Williams,Williamstown,385000
+hockingstuart,Windsor,560000
+Village,Yarraville,2450000
+Jellis,Brunswick,945000
+Nelson,Brunswick,755000
+Crane,Caroline Springs,560000
+Area,Keysborough,771000
+Biggin,Maidstone,611500
+C21,Noble Park,627500
+Barry,Westmeadows,791000

@@ -1,0 +1,112 @@
+<!-- ==================================================== -->
+<!--Name: Jeffery Chieh Liu-->
+<!--Program Title: Victoria and Melbourne Property Market Analysis Narrative Visualisation-->
+<!--Current HTML Page: vic_melb_properties_sold_map.html-->
+<!-- ===================================================== -->
+
+
+
+<html>
+    <head>
+        <style>
+            ul#navigation  {
+                list-style-type: none;
+                margin: 0;
+                padding: 0;
+                overflow: hidden;
+                background-color: #333; 
+            }
+            
+            li {
+                float: left;
+            }
+            
+            li a {
+                display: block;
+                color: white;
+                text-align: center;
+                padding: 14px 16px; 
+                text-decoration: none; 
+            }
+            
+            li a:hover{
+                background-color: #111;
+            }
+            
+            .active {
+                background-color: #4CAF50;
+            }
+            
+            #nav{
+                width: 370px;
+                float: right;
+            }
+            
+            #main{
+                width: 600px;
+                float: left;
+            }
+        
+        </style>
+    </head>
+    
+    
+    <body>
+        
+        <ul id="navigation">
+            <li><a href="../index.html">Home</a></li>
+            <li><a class ="active" href="./vic_melb_properties_sold_map.html">Map</a></li>
+            <li><a href="./houses_analysis_page.html">Houses Analysis</a></li>
+            <li><a href="./houses_median_vs_mean_page.html">Houses Median vs Mean</a></li>
+            <li><a href="./units_analysis_page.html">Units Analysis</a></li>
+            <li><a href="./units_median_vs_mean_page.html">Units Median vs Mean</a></li>
+            <li><a href="./property_methods_page.html">Top Agents Methods</a></li>
+            <li><a href="./filtered_sankey_vis.html">Prices Analysis</a></li>
+            <li><a href="./conclusion_summary.html">Conclusion and Summary</a></li>
+        </ul>
+            
+        
+        <form>
+            <input type="button" value="Home" onclick="location.href='../index.html'" style="position: relative; top: 19px;">
+        </form>
+        
+        
+        <form style="float: right;">
+            <input type="button" value="Houses Analysis" onclick="location.href='./houses_analysis_page.html'" style="position: relative; top: -17px;">
+        </form>
+        
+        
+        
+        <div style="margin-left: 130; margin-right: 150;">
+            <h1 style="text-align: center;">Overview: Properties sold across Melbourne suburbs from 2016 to 2018</h1>
+        </div>
+        
+        <div id="content">
+            <div id="nav" style="position:relative; left:-80; top:20;">
+                <h3 style="position: relative; left: 10;">Highlights</h3>
+                <ul >
+                    <li style="position:relative; left:-3;">48,433 properties sold</li>
+                    <li style="position:relative; left:-3;">Total revenue from all properties sold is $48 billion AUD</li>
+                    <li style="position:relative; left:-3;">Deepdene suburb has the highest property median price</li>
+                    <li style="position:relative; left:-3;">Reservoir suburb has the most number of properties sold</li>
+                    <li style="position:relative; left:-3;">1067 properties sold in Reservoir</li>
+                </ul>
+            </div>
+            
+            <div id="main" style="position:relative; left:100; top:23;">
+                <h3 style="position: relative; left: 30;">Analysing Melbournes Property Market conditions and changes</h3>
+                <p style="position:relative; left: 30">The valuation for Melbourne's Housing Market from all the properties sold throughout 2016 - 2018 is $48 billion AUD. Meanwhile Melbourne's current Median price growth trend throughout all suburbs is highst in the CBD center and as it disperses towards the country side the Median House Price gradually decreases to the lowest at $390,000 AUD.</p>
+                
+            </div>
+            
+        </div>
+        
+        
+        <div>
+            <iframe src="./property_map.html" height="750" width="1550" scrolling="no"; style="position:relative; -webkit-transform:scale(0.85); left: -110; top:90;border:2px solid black; border-radius: 15px"></iframe>
+        </div>
+        
+    </body>
+
+
+</html>

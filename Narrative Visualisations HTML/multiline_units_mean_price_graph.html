@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<!-- ==================================================== -->
+<!--Name: Jeffery Chieh Liu-->
+<!--Program Title: Victoria and Melbourne Property Market Analysis Narrative Visualisation-->
+<!--Current HTML Page: multiline_units_mean_price_graph.html-->
+<!-- ===================================================== -->
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="multiline.css">
+    <script src="http://d3js.org/d3.v3.js" charset="utf-8"></script>
+    <!--<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>-->
+</head>
+ 
+<body>
+    
+    
+    
+<div class="chart-wrapper" id="chart-line1"></div>
+
+<script type="text/javascript">
+    d3.csv('../cleaned_reshaped_reformatted_data/complete_combined_reshaped_year_summary_1987_to_2018.csv', function(error, data) {
+    data.forEach(function (d) {
+        d.Year = +d.Year;
+        d.Melbourne_Metropolitan_Area_Units_Apartments_Mean_Price = +d.Melbourne_Metropolitan_Area_Units_Apartments_Mean_Price;
+        d.Country_Victoria_Units_Apartments_Mean_Price = +d.Country_Victoria_Units_Apartments_Mean_Price;
+        d.Victoria_Units_Apartments_Mean_Price = +d.Victoria_Units_Apartments_Mean_Price;
+        d.Melbourne_City_Units_Apartments_Mean_Price = +d.Melbourne_City_Units_Apartments_Mean_Price;
+    });
+
+    var chart = makeLineChart(data, 'Year', {
+        'Melbourne_Metropolitan_Area_Units_Apartments_Mean_Price': {column: 'Melbourne_Metropolitan_Area_Units_Apartments_Mean_Price'},
+        'Country_Victoria_Units_Apartments_Mean_Price': {column: 'Country_Victoria_Units_Apartments_Mean_Price'},
+        'Victoria_Units_Apartments_Mean_Price': {column: 'Victoria_Units_Apartments_Mean_Price'},
+        'Melbourne_City_Units_Apartments_Mean_Price': {column: 'Melbourne_City_Units_Apartments_Mean_Price'}
+    }, {xAxis: 'Years', yAxis: 'Mean Unit Price'});
+    chart.bind("#chart-line1");
+    chart.render();
+
+});
+</script>
+<script src="multiline.js" charset="utf-8"></script>
+</body>
+</html>
